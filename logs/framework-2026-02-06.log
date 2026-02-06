@@ -1,0 +1,485 @@
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 19:57:38 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\AppData\Local\Temp\testng-eclipse-529393179\testng-customsuite.xml
+
+2026-02-06 19:57:38 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-02-06 19:57:40 [TestNG-PoolService-3] INFO  TestBase - Initializing browser: chrome
+2026-02-06 19:57:40 [TestNG-PoolService-2] INFO  TestBase - Initializing browser: chrome
+2026-02-06 19:57:40 [TestNG-PoolService-1] INFO  TestBase - Initializing browser: chrome
+2026-02-06 19:57:40 [TestNG-PoolService-2] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 19:57:40 [TestNG-PoolService-3] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 19:57:40 [TestNG-PoolService-1] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 19:57:45 [TestNG-PoolService-2] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-06 19:57:45 [TestNG-PoolService-3] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-06 19:57:45 [TestNG-PoolService-2] INFO  TestBase - Initializing browser: chrome
+2026-02-06 19:57:45 [TestNG-PoolService-2] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 19:57:45 [TestNG-PoolService-3] INFO  TestBase - Initializing browser: chrome
+2026-02-06 19:57:45 [TestNG-PoolService-3] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 19:57:45 [TestNG-PoolService-2] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-06 19:57:45 [TestNG-PoolService-3] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-06 19:57:45 [TestNG-PoolService-3] INFO  LandingPage - Getting title of LandingPage!
+2026-02-06 19:57:45 [TestNG-PoolService-2] INFO  LandingPage - Getting title of LandingPage!
+2026-02-06 19:57:53 [TestNG-PoolService-3] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-06 19:57:53 [TestNG-PoolService-3] INFO  LandingPage - Searching product with name: Beet
+2026-02-06 19:57:54 [TestNG-PoolService-2] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-06 19:57:54 [TestNG-PoolService-2] INFO  LandingPage - Searching product with name: Tom
+2026-02-06 19:57:54 [TestNG-PoolService-3] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-06 19:57:54 [TestNG-PoolService-2] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-06 19:57:54 [TestNG-PoolService-3] INFO  LandingPage - Getting text of searched product!
+2026-02-06 19:57:54 [TestNG-PoolService-2] INFO  LandingPage - Getting text of searched product!
+2026-02-06 19:57:54 [TestNG-PoolService-3] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-06 19:57:54 [TestNG-PoolService-2] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-06 19:57:54 [TestNG-PoolService-2] INFO  LandingPage - Opening topDeals page!
+2026-02-06 19:57:54 [TestNG-PoolService-3] INFO  LandingPage - Opening topDeals page!
+2026-02-06 19:57:54 [TestNG-PoolService-1] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-06 19:57:54 [TestNG-PoolService-1] INFO  TestBase - Initializing browser: chrome
+2026-02-06 19:57:54 [TestNG-PoolService-1] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 19:57:54 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-06 19:57:54 [TestNG-PoolService-1] INFO  LandingPage - Getting title of LandingPage!
+2026-02-06 19:57:54 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-06 19:57:54 [TestNG-PoolService-1] INFO  LandingPage - Searching product with name: Tom
+2026-02-06 19:57:54 [TestNG-PoolService-2] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-06 19:57:54 [TestNG-PoolService-2] INFO  OffersPage - Entering product name into search field!
+2026-02-06 19:57:55 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-06 19:57:55 [TestNG-PoolService-1] INFO  LandingPage - Getting text of searched product!
+2026-02-06 19:57:55 [TestNG-PoolService-3] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-06 19:57:55 [TestNG-PoolService-3] INFO  OffersPage - Entering product name into search field!
+2026-02-06 19:57:56 [TestNG-PoolService-1] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-06 19:57:56 [TestNG-PoolService-2] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-06 19:57:56 [TestNG-PoolService-2] INFO  OffersPage - capturing productName text!
+2026-02-06 19:57:56 [TestNG-PoolService-3] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-06 19:57:56 [TestNG-PoolService-3] INFO  OffersPage - capturing productName text!
+2026-02-06 19:57:56 [TestNG-PoolService-2] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-06 19:57:56 [TestNG-PoolService-3] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-06 19:57:56 [TestNG-PoolService-2] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-06 19:57:56 [TestNG-PoolService-3] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-06 19:57:58 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@52b06bef: 96 ms
+2026-02-06 19:57:58 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5115f590: 26 ms
+2026-02-06 19:57:58 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6c0905f6: 17 ms
+2026-02-06 19:57:58 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3ebe4ccc: 22 ms
+2026-02-06 19:57:58 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2ae62bb6: 14 ms
+2026-02-06 19:57:58 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@68ed3f30: 0 ms
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 20:07:40 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\AppData\Local\Temp\testng-eclipse--2136669344\testng-customsuite.xml
+
+2026-02-06 20:07:40 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2026-02-06 20:07:42 [TestNG-PoolService-1] INFO  TestBase - Initializing browser: chrome
+2026-02-06 20:07:42 [TestNG-PoolService-3] INFO  TestBase - Initializing browser: chrome
+2026-02-06 20:07:42 [TestNG-PoolService-2] INFO  TestBase - Initializing browser: chrome
+2026-02-06 20:07:42 [TestNG-PoolService-3] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 20:07:42 [TestNG-PoolService-2] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 20:07:42 [TestNG-PoolService-1] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 20:07:47 [TestNG-PoolService-2] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-06 20:07:47 [TestNG-PoolService-1] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-06 20:07:47 [TestNG-PoolService-2] INFO  TestBase - Initializing browser: chrome
+2026-02-06 20:07:47 [TestNG-PoolService-1] INFO  TestBase - Initializing browser: chrome
+2026-02-06 20:07:47 [TestNG-PoolService-2] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 20:07:47 [TestNG-PoolService-1] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 20:07:47 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-06 20:07:47 [TestNG-PoolService-1] INFO  LandingPage - Getting title of LandingPage!
+2026-02-06 20:07:47 [TestNG-PoolService-2] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-06 20:07:47 [TestNG-PoolService-2] INFO  LandingPage - Getting title of LandingPage!
+2026-02-06 20:07:53 [TestNG-PoolService-3] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-06 20:07:53 [TestNG-PoolService-3] INFO  TestBase - Initializing browser: chrome
+2026-02-06 20:07:53 [TestNG-PoolService-3] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 20:07:53 [TestNG-PoolService-3] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-06 20:07:53 [TestNG-PoolService-3] INFO  LandingPage - Getting title of LandingPage!
+2026-02-06 20:07:53 [TestNG-PoolService-1] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-06 20:07:53 [TestNG-PoolService-3] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-06 20:07:54 [TestNG-PoolService-2] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-06 20:07:55 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6c1cfa53: 140 ms
+2026-02-06 20:07:55 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@68565bc7: 31 ms
+2026-02-06 20:07:56 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@60c73e58: 18 ms
+2026-02-06 20:07:56 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@141d3d43: 14 ms
+2026-02-06 20:07:56 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@44af588b: 9 ms
+2026-02-06 20:07:56 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3d19d85: 0 ms
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 21:58:12 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\AppData\Local\Temp\testng-eclipse-2079844685\testng-customsuite.xml
+
+2026-02-06 21:58:12 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-02-06 21:58:14 [TestNG-PoolService-1] INFO  TestBase - Initializing browser: chrome
+2026-02-06 21:58:14 [TestNG-PoolService-3] INFO  TestBase - Initializing browser: chrome
+2026-02-06 21:58:14 [TestNG-PoolService-2] INFO  TestBase - Initializing browser: chrome
+2026-02-06 21:58:14 [TestNG-PoolService-3] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 21:58:14 [TestNG-PoolService-2] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 21:58:14 [TestNG-PoolService-1] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 21:58:21 [TestNG-PoolService-2] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-06 21:58:21 [TestNG-PoolService-2] INFO  TestBase - Initializing browser: chrome
+2026-02-06 21:58:21 [TestNG-PoolService-2] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 21:58:21 [TestNG-PoolService-2] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-06 21:58:21 [TestNG-PoolService-2] INFO  LandingPage - Getting title of LandingPage!
+2026-02-06 21:58:21 [TestNG-PoolService-1] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-06 21:58:21 [TestNG-PoolService-1] INFO  TestBase - Initializing browser: chrome
+2026-02-06 21:58:21 [TestNG-PoolService-1] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 21:58:21 [TestNG-PoolService-3] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-06 21:58:21 [TestNG-PoolService-3] INFO  TestBase - Initializing browser: chrome
+2026-02-06 21:58:21 [TestNG-PoolService-3] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 21:58:22 [TestNG-PoolService-3] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-06 21:58:22 [TestNG-PoolService-3] INFO  LandingPage - Getting title of LandingPage!
+2026-02-06 21:58:22 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-06 21:58:22 [TestNG-PoolService-1] INFO  LandingPage - Getting title of LandingPage!
+2026-02-06 21:58:27 [TestNG-PoolService-3] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-06 21:58:27 [TestNG-PoolService-1] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-06 21:58:27 [TestNG-PoolService-2] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-06 21:58:29 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6c1cfa53: 119 ms
+2026-02-06 21:58:29 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@68565bc7: 34 ms
+2026-02-06 21:58:29 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@60c73e58: 18 ms
+2026-02-06 21:58:29 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@141d3d43: 15 ms
+2026-02-06 21:58:29 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@44af588b: 15 ms
+2026-02-06 21:58:29 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3d19d85: 1 ms
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 22:01:49 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\AppData\Local\Temp\testng-eclipse--184278355\testng-customsuite.xml
+
+2026-02-06 22:01:49 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2026-02-06 22:01:51 [TestNG-PoolService-1] INFO  TestBase - Initializing browser: chrome
+2026-02-06 22:01:51 [TestNG-PoolService-3] INFO  TestBase - Initializing browser: chrome
+2026-02-06 22:01:51 [TestNG-PoolService-2] INFO  TestBase - Initializing browser: chrome
+2026-02-06 22:01:51 [TestNG-PoolService-3] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 22:01:51 [TestNG-PoolService-2] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 22:01:51 [TestNG-PoolService-1] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 22:01:57 [TestNG-PoolService-3] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-06 22:01:57 [TestNG-PoolService-3] INFO  TestBase - Initializing browser: chrome
+2026-02-06 22:01:57 [TestNG-PoolService-3] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 22:01:57 [TestNG-PoolService-3] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-06 22:01:57 [TestNG-PoolService-3] INFO  LandingPage - Getting title of LandingPage!
+2026-02-06 22:02:02 [TestNG-PoolService-1] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-06 22:02:02 [TestNG-PoolService-1] INFO  TestBase - Initializing browser: chrome
+2026-02-06 22:02:02 [TestNG-PoolService-1] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 22:02:02 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-06 22:02:02 [TestNG-PoolService-1] INFO  LandingPage - Getting title of LandingPage!
+2026-02-06 22:02:02 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-06 22:02:02 [TestNG-PoolService-1] INFO  LandingPage - Searching product with name: Tom
+2026-02-06 22:02:03 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-06 22:02:03 [TestNG-PoolService-1] INFO  LandingPage - Getting text of searched product!
+2026-02-06 22:02:03 [TestNG-PoolService-2] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-06 22:02:03 [TestNG-PoolService-2] INFO  TestBase - Initializing browser: chrome
+2026-02-06 22:02:03 [TestNG-PoolService-2] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 22:02:03 [TestNG-PoolService-2] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-06 22:02:03 [TestNG-PoolService-2] INFO  LandingPage - Getting title of LandingPage!
+2026-02-06 22:02:04 [TestNG-PoolService-2] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-06 22:02:04 [TestNG-PoolService-2] INFO  LandingPage - Searching product with name: Tom
+2026-02-06 22:02:04 [TestNG-PoolService-3] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-06 22:02:04 [TestNG-PoolService-3] INFO  LandingPage - Searching product with name: Beet
+2026-02-06 22:02:04 [TestNG-PoolService-2] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-06 22:02:04 [TestNG-PoolService-2] INFO  LandingPage - Getting text of searched product!
+2026-02-06 22:02:04 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - user is incrementing quantity of product to add in the cart!
+2026-02-06 22:02:04 [TestNG-PoolService-1] INFO  LandingPage - incrementing quantity of searched product: 3
+2026-02-06 22:02:04 [TestNG-PoolService-3] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-06 22:02:04 [TestNG-PoolService-3] INFO  LandingPage - Getting text of searched product!
+2026-02-06 22:02:05 [TestNG-PoolService-2] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-06 22:02:05 [TestNG-PoolService-2] INFO  LandingPage - Opening topDeals page!
+2026-02-06 22:02:05 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - user adding product to cart!
+2026-02-06 22:02:05 [TestNG-PoolService-1] INFO  LandingPage - Adding product to cart!
+2026-02-06 22:02:05 [TestNG-PoolService-1] INFO  CheckoutPageStepDefinitions - checking items!
+2026-02-06 22:02:05 [TestNG-PoolService-1] INFO  CheckoutPage - Clicking on cartBag!
+2026-02-06 22:02:05 [TestNG-PoolService-2] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-06 22:02:05 [TestNG-PoolService-2] INFO  OffersPage - Entering product name into search field!
+2026-02-06 22:02:06 [TestNG-PoolService-1] INFO  CheckoutPage - Clicking on checkoutButton!
+2026-02-06 22:02:06 [TestNG-PoolService-1] INFO  CheckoutPageStepDefinitions - user is able to see promoBtn and placeOrder!
+2026-02-06 22:02:06 [TestNG-PoolService-1] INFO  CheckoutPage - Verifying PromoBtn is displayed!
+2026-02-06 22:02:07 [TestNG-PoolService-1] INFO  CheckoutPage - Verifying placeOrder is displayed!
+2026-02-06 22:02:07 [TestNG-PoolService-1] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: PASSED =====
+2026-02-06 22:02:07 [TestNG-PoolService-2] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-06 22:02:07 [TestNG-PoolService-2] INFO  OffersPage - capturing productName text!
+2026-02-06 22:02:07 [TestNG-PoolService-2] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-06 22:02:07 [TestNG-PoolService-2] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: PASSED =====
+2026-02-06 22:02:14 [TestNG-PoolService-3] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-06 22:02:16 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6415f61e: 111 ms
+2026-02-06 22:02:16 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@68565bc7: 33 ms
+2026-02-06 22:02:16 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@60c73e58: 14 ms
+2026-02-06 22:02:16 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@141d3d43: 12 ms
+2026-02-06 22:02:16 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@44af588b: 12 ms
+2026-02-06 22:02:16 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3d19d85: 0 ms
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 22:11:37 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\AppData\Local\Temp\testng-eclipse--1230019287\testng-customsuite.xml
+
+2026-02-06 22:11:37 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2026-02-06 22:11:38 [TestNG-PoolService-1] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-06 22:11:38 [TestNG-PoolService-2] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-06 22:11:38 [TestNG-PoolService-3] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-06 22:11:38 [TestNG-PoolService-2] INFO  TestBase - Initializing browser: chrome
+2026-02-06 22:11:38 [TestNG-PoolService-1] INFO  TestBase - Initializing browser: chrome
+2026-02-06 22:11:38 [TestNG-PoolService-3] INFO  TestBase - Initializing browser: chrome
+2026-02-06 22:11:38 [TestNG-PoolService-1] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 22:11:38 [TestNG-PoolService-3] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 22:11:38 [TestNG-PoolService-2] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 22:11:44 [TestNG-PoolService-3] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-06 22:11:44 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-06 22:11:44 [TestNG-PoolService-1] INFO  LandingPage - Getting title of LandingPage!
+2026-02-06 22:11:44 [TestNG-PoolService-3] INFO  LandingPage - Getting title of LandingPage!
+2026-02-06 22:11:50 [TestNG-PoolService-3] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-06 22:11:50 [TestNG-PoolService-3] INFO  LandingPage - Searching product with name: Beet
+2026-02-06 22:11:50 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-06 22:11:50 [TestNG-PoolService-1] INFO  LandingPage - Searching product with name: Tom
+2026-02-06 22:11:50 [TestNG-PoolService-3] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-06 22:11:50 [TestNG-PoolService-3] INFO  LandingPage - Getting text of searched product!
+2026-02-06 22:11:50 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-06 22:11:50 [TestNG-PoolService-1] INFO  LandingPage - Getting text of searched product!
+2026-02-06 22:11:50 [TestNG-PoolService-2] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-06 22:11:50 [TestNG-PoolService-2] INFO  LandingPage - Getting title of LandingPage!
+2026-02-06 22:11:50 [TestNG-PoolService-2] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-06 22:11:50 [TestNG-PoolService-2] INFO  LandingPage - Searching product with name: Tom
+2026-02-06 22:11:51 [TestNG-PoolService-2] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-06 22:11:51 [TestNG-PoolService-2] INFO  LandingPage - Getting text of searched product!
+2026-02-06 22:11:51 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - user is incrementing quantity of product to add in the cart!
+2026-02-06 22:11:51 [TestNG-PoolService-1] INFO  LandingPage - incrementing quantity of searched product: 3
+2026-02-06 22:11:51 [TestNG-PoolService-2] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-06 22:11:51 [TestNG-PoolService-2] INFO  LandingPage - Opening topDeals page!
+2026-02-06 22:11:52 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - user adding product to cart!
+2026-02-06 22:11:52 [TestNG-PoolService-1] INFO  LandingPage - Adding product to cart!
+2026-02-06 22:11:52 [TestNG-PoolService-1] INFO  CheckoutPageStepDefinitions - checking items!
+2026-02-06 22:11:52 [TestNG-PoolService-1] INFO  CheckoutPage - Clicking on cartBag!
+2026-02-06 22:11:52 [TestNG-PoolService-2] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-06 22:11:52 [TestNG-PoolService-2] INFO  OffersPage - Entering product name into search field!
+2026-02-06 22:11:52 [TestNG-PoolService-1] INFO  CheckoutPage - Clicking on checkoutButton!
+2026-02-06 22:11:53 [TestNG-PoolService-1] INFO  CheckoutPageStepDefinitions - user is able to see promoBtn and placeOrder!
+2026-02-06 22:11:53 [TestNG-PoolService-1] INFO  CheckoutPage - Verifying PromoBtn is displayed!
+2026-02-06 22:11:53 [TestNG-PoolService-1] INFO  CheckoutPage - Verifying placeOrder is displayed!
+2026-02-06 22:11:54 [TestNG-PoolService-1] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: PASSED =====
+2026-02-06 22:11:54 [TestNG-PoolService-2] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-06 22:11:54 [TestNG-PoolService-2] INFO  OffersPage - capturing productName text!
+2026-02-06 22:11:54 [TestNG-PoolService-2] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-06 22:11:54 [TestNG-PoolService-2] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: PASSED =====
+2026-02-06 22:12:01 [TestNG-PoolService-3] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-06 22:12:02 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6415f61e: 110 ms
+2026-02-06 22:12:02 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@68565bc7: 28 ms
+2026-02-06 22:12:02 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@60c73e58: 15 ms
+2026-02-06 22:12:02 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@141d3d43: 13 ms
+2026-02-06 22:12:02 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@44af588b: 11 ms
+2026-02-06 22:12:02 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3d19d85: 1 ms
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-06 23:34:01 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\AppData\Local\Temp\testng-eclipse--445155969\testng-customsuite.xml
+
+2026-02-06 23:34:01 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-02-06 23:34:02 [TestNG-PoolService-3] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-06 23:34:02 [TestNG-PoolService-1] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-06 23:34:02 [TestNG-PoolService-2] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-06 23:34:02 [TestNG-PoolService-1] INFO  TestBase - Initializing browser: chrome
+2026-02-06 23:34:02 [TestNG-PoolService-3] INFO  TestBase - Initializing browser: chrome
+2026-02-06 23:34:02 [TestNG-PoolService-1] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 23:34:02 [TestNG-PoolService-2] INFO  TestBase - Initializing browser: chrome
+2026-02-06 23:34:02 [TestNG-PoolService-3] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 23:34:02 [TestNG-PoolService-2] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-06 23:34:12 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-06 23:34:12 [TestNG-PoolService-1] INFO  LandingPage - Getting title of LandingPage!
+2026-02-06 23:34:13 [TestNG-PoolService-2] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-06 23:34:13 [TestNG-PoolService-2] INFO  LandingPage - Getting title of LandingPage!
+2026-02-06 23:34:13 [TestNG-PoolService-2] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-06 23:34:13 [TestNG-PoolService-2] INFO  LandingPage - Searching product with name: Tom
+2026-02-06 23:34:13 [TestNG-PoolService-3] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-06 23:34:13 [TestNG-PoolService-3] INFO  LandingPage - Getting title of LandingPage!
+2026-02-06 23:34:14 [TestNG-PoolService-3] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-06 23:34:14 [TestNG-PoolService-3] INFO  LandingPage - Searching product with name: Beet
+2026-02-06 23:34:14 [TestNG-PoolService-2] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-06 23:34:14 [TestNG-PoolService-2] INFO  LandingPage - Getting text of searched product!
+2026-02-06 23:34:14 [TestNG-PoolService-3] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-06 23:34:14 [TestNG-PoolService-3] INFO  LandingPage - Getting text of searched product!
+2026-02-06 23:34:15 [TestNG-PoolService-2] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-06 23:34:15 [TestNG-PoolService-2] INFO  LandingPage - Opening topDeals page!
+2026-02-06 23:34:15 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-06 23:34:15 [TestNG-PoolService-1] INFO  LandingPage - Searching product with name: Tom
+2026-02-06 23:34:15 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-06 23:34:15 [TestNG-PoolService-1] INFO  LandingPage - Getting text of searched product!
+2026-02-06 23:34:15 [TestNG-PoolService-2] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-06 23:34:15 [TestNG-PoolService-2] INFO  OffersPage - Entering product name into search field!
+2026-02-06 23:34:16 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - user is incrementing quantity of product to add in the cart!
+2026-02-06 23:34:16 [TestNG-PoolService-1] INFO  LandingPage - incrementing quantity of searched product: 3
+2026-02-06 23:34:16 [TestNG-PoolService-2] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-06 23:34:16 [TestNG-PoolService-2] INFO  OffersPage - capturing productName text!
+2026-02-06 23:34:16 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - user adding product to cart!
+2026-02-06 23:34:16 [TestNG-PoolService-1] INFO  LandingPage - Adding product to cart!
+2026-02-06 23:34:17 [TestNG-PoolService-2] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-06 23:34:17 [TestNG-PoolService-2] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: PASSED =====
+2026-02-06 23:34:17 [TestNG-PoolService-1] INFO  CheckoutPageStepDefinitions - checking items!
+2026-02-06 23:34:17 [TestNG-PoolService-1] INFO  CheckoutPage - Clicking on cartBag!
+2026-02-06 23:34:17 [TestNG-PoolService-1] INFO  CheckoutPage - Clicking on checkoutButton!
+2026-02-06 23:34:17 [TestNG-PoolService-1] INFO  CheckoutPageStepDefinitions - user is able to see promoBtn and placeOrder!
+2026-02-06 23:34:17 [TestNG-PoolService-1] INFO  CheckoutPage - Verifying PromoBtn is displayed!
+2026-02-06 23:34:18 [TestNG-PoolService-1] INFO  CheckoutPage - Verifying placeOrder is displayed!
+2026-02-06 23:34:18 [TestNG-PoolService-1] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: PASSED =====
+2026-02-06 23:34:25 [TestNG-PoolService-3] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-06 23:34:26 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6415f61e: 111 ms
+2026-02-06 23:34:26 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7af3874e: 28 ms
+2026-02-06 23:34:26 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6fbb4061: 14 ms
+2026-02-06 23:34:26 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1b6924cb: 8 ms
+2026-02-06 23:34:26 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6419a0e1: 8 ms
+2026-02-06 23:34:26 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@280d4882: 0 ms
