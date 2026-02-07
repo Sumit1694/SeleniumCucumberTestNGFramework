@@ -1,7 +1,11 @@
 package runners;
 
+import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
+import org.testng.annotations.Optional;
+import org.testng.annotations.Parameters;
 
+import configs.BrowserContext;
 import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
 
@@ -11,7 +15,7 @@ dryRun=false,tags = "@PlaceOrder or @CheckoutPage or @OffersPage", plugin= {"htm
 public class TestNGTestRunner extends AbstractTestNGCucumberTests {
 
 	//Enable only when need to run from xml
-	/*@BeforeTest(alwaysRun = true)
+	@BeforeTest(alwaysRun = true)
 	@Parameters("browser")
 	public void setBrowser(@Optional String browser) {
 
@@ -20,10 +24,10 @@ public class TestNGTestRunner extends AbstractTestNGCucumberTests {
 		if (browser != null) {
 			BrowserContext.setBrowser(browser);
 		}
-	}*/
+	}
 
 	@Override
-	@DataProvider(parallel=true)
+	@DataProvider(parallel=false)
 	public Object[][] scenarios()
 	{
 		return super.scenarios();
