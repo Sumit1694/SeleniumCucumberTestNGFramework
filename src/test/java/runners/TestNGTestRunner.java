@@ -1,13 +1,9 @@
 package runners;
 
-import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
-import org.testng.annotations.Optional;
-import org.testng.annotations.Parameters;
 
 import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
-import utils.BrowserContext;
 
 @CucumberOptions(features="src/test/java/features",glue="stepDefinitions",monochrome=true,
 dryRun=false,tags="@PlaceOrder", plugin= {"html:target/cucumber.html","json:target/cucumber.json", "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",

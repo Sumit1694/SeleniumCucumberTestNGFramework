@@ -4020,3 +4020,43 @@
 2026-02-07 23:00:30 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7c51782d: 9 ms
 2026-02-07 23:00:30 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5377414a: 10 ms
 2026-02-07 23:00:30 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4e83a98: 0 ms
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 23:36:47 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\AppData\Local\Temp\testng-eclipse--976852105\testng-customsuite.xml
+
+2026-02-07 23:36:47 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2026-02-07 23:36:49 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@7bee8621: 68 ms
+2026-02-07 23:36:49 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1283ca23: 18 ms
+2026-02-07 23:36:49 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@39da5e49: 10 ms
+2026-02-07 23:36:49 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5b35c7d: 7 ms
+2026-02-07 23:36:49 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@51c65a43: 8 ms
+2026-02-07 23:36:49 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@740dcae3: 1 ms
