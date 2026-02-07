@@ -25,10 +25,18 @@ public final class ConfigReader {
 		}
 	}
 
-	public static String getBrowser()
-	{
-		return properties.getProperty("browser");
+	public static String getBrowser() {
+
+	    // 1️⃣ From ThreadLocal (XML execution)
+	    String browser = BrowserContext.getBrowser();
+	    if (browser != null && !browser.trim().isEmpty()) {
+	        return browser;
+	    }
+
+	    // 2️⃣ Fallback to properties
+	    return properties.getProperty("browser");
 	}
+
 
 	public static String getEnv()
 	{

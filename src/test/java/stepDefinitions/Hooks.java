@@ -13,6 +13,7 @@ import io.cucumber.java.After;
 import io.cucumber.java.AfterStep;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
+import utils.BrowserContext;
 import utils.TestContextSetup;
 
 public class Hooks {
@@ -27,10 +28,10 @@ public class Hooks {
 	private static final Logger log = LoggerFactory.getLogger(Hooks.class);
 
 	@Before
-    public void beforeScenario(Scenario scenario) throws IOException {
+	public void beforeScenario(Scenario scenario) throws IOException {
 		log.info("===== STARTING SCENARIO: {} =====", scenario.getName());
 		testContextSetup.initializeDriver();
-    }
+	}
 
 	@AfterStep
 	public void addScreenshot(Scenario scenario) throws IOException
@@ -54,5 +55,6 @@ public class Hooks {
 			driver.quit();
 			DriverFactory.removeDriver();
 		}
+		BrowserContext.clear();
 	}
 }
