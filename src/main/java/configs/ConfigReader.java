@@ -4,6 +4,9 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
 
+import Constants.FrameworkConstants;
+import enums.BrowserType;
+
 public final class ConfigReader {
 
 	private static final Properties properties = new Properties();
@@ -12,11 +15,11 @@ public final class ConfigReader {
 
 	static {
 		try {
-			InputStream input = ConfigReader.class.getClassLoader().getResourceAsStream("global.properties");
+			InputStream input = ConfigReader.class.getClassLoader().getResourceAsStream(FrameworkConstants.CONFIG_FILE_NAME);
 
 			if(input==null)
 			{
-				throw new RuntimeException("global.properties not found in src/test/resources");
+				throw new RuntimeException("Config file not found: " + FrameworkConstants.CONFIG_FILE_NAME);
 			}
 			properties.load(input);
 
@@ -25,16 +28,16 @@ public final class ConfigReader {
 		}
 	}
 
-	public static String getBrowser() {
-
-	    // 1️⃣ From ThreadLocal (XML execution)
+	public static BrowserType getBrowserType() {
+	    // 1️ From ThreadLocal (XML execution)
 	    String browser = BrowserContext.getBrowser();
 	    if (browser != null && !browser.trim().isEmpty()) {
-	        return browser;
+	        return BrowserType.valueOf(browser.toUpperCase());
 	    }
 
-	    // 2️⃣ Fallback to properties
-	    return properties.getProperty("browser");
+	    // Fallback to properties
+	    String propBrowser = properties.getProperty(FrameworkConstants.BROWSER_KEY, FrameworkConstants.DEFAULT_BROWSER);
+	    return BrowserType.valueOf(propBrowser.toUpperCase());
 	}
 
 

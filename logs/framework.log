@@ -481,3 +481,625 @@
 2026-02-08 01:39:53 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5ebffb44: 13 ms
 2026-02-08 01:39:53 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7e307087: 8 ms
 2026-02-08 01:39:53 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1220ef43: 0 ms
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 01:52:08 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\AppData\Local\Temp\testng-eclipse--990335359\testng-customsuite.xml
+
+2026-02-08 01:52:08 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-02-08 01:52:09 [TestNG-PoolService-6] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-08 01:52:09 [TestNG-PoolService-4] INFO  Hooks - ===== STARTING SCENARIO: Search for products from Excel file, add them to cart, and complete the order =====
+2026-02-08 01:52:09 [TestNG-PoolService-2] INFO  Hooks - ===== STARTING SCENARIO: Search for products from Excel file, add them to cart, and complete the order =====
+2026-02-08 01:52:09 [TestNG-PoolService-5] INFO  Hooks - ===== STARTING SCENARIO: Search for products from Excel file, add them to cart, and complete the order =====
+2026-02-08 01:52:09 [TestNG-PoolService-3] INFO  Hooks - ===== STARTING SCENARIO: Search for products from Excel file, add them to cart, and complete the order =====
+2026-02-08 01:52:09 [TestNG-PoolService-1] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-08 01:52:09 [TestNG-PoolService-7] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-08 01:52:09 [TestNG-PoolService-6] INFO  TestBase - Initializing browser: CHROME
+2026-02-08 01:52:09 [TestNG-PoolService-7] INFO  TestBase - Initializing browser: CHROME
+2026-02-08 01:52:09 [TestNG-PoolService-2] INFO  TestBase - Initializing browser: CHROME
+2026-02-08 01:52:09 [TestNG-PoolService-1] INFO  TestBase - Initializing browser: CHROME
+2026-02-08 01:52:09 [TestNG-PoolService-5] INFO  TestBase - Initializing browser: CHROME
+2026-02-08 01:52:09 [TestNG-PoolService-7] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-08 01:52:09 [TestNG-PoolService-6] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-08 01:52:09 [TestNG-PoolService-4] INFO  TestBase - Initializing browser: CHROME
+2026-02-08 01:52:09 [TestNG-PoolService-5] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-08 01:52:09 [TestNG-PoolService-3] INFO  TestBase - Initializing browser: CHROME
+2026-02-08 01:52:09 [TestNG-PoolService-4] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-08 01:52:09 [TestNG-PoolService-1] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-08 01:52:09 [TestNG-PoolService-2] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-08 01:52:09 [TestNG-PoolService-3] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-08 01:52:10 [TestNG-PoolService-7] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-08 01:52:10 [TestNG-PoolService-4] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-08 01:52:10 [TestNG-PoolService-1] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-08 01:52:10 [TestNG-PoolService-2] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-08 01:52:10 [TestNG-PoolService-3] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-08 01:52:10 [TestNG-PoolService-5] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-08 01:52:10 [TestNG-PoolService-6] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-08 01:52:10 [TestNG-PoolService-5] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-08 01:52:10 [TestNG-PoolService-6] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-08 01:52:10 [TestNG-PoolService-3] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-08 01:52:10 [TestNG-PoolService-2] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-08 01:52:10 [TestNG-PoolService-4] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-08 01:52:10 [TestNG-PoolService-1] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-08 01:52:10 [TestNG-PoolService-7] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-08 01:52:23 [TestNG-PoolService-5] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-08 01:52:23 [TestNG-PoolService-5] INFO  LandingPage - Getting title of LandingPage!
+2026-02-08 01:52:24 [TestNG-PoolService-5] INFO  LandingPage - Searching product with name: Beetroot
+2026-02-08 01:52:30 [TestNG-PoolService-5] INFO  LandingPage - Incrementing quantity of searched product: 4
+2026-02-08 01:52:30 [TestNG-PoolService-3] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-08 01:52:30 [TestNG-PoolService-3] INFO  LandingPage - Getting title of LandingPage!
+2026-02-08 01:52:30 [TestNG-PoolService-7] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-08 01:52:30 [TestNG-PoolService-7] INFO  LandingPage - Getting title of LandingPage!
+2026-02-08 01:52:30 [TestNG-PoolService-3] INFO  LandingPage - Searching product with name: Beans
+2026-02-08 01:52:30 [TestNG-PoolService-7] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-08 01:52:30 [TestNG-PoolService-7] INFO  LandingPage - Searching product with name: Beet
+2026-02-08 01:52:31 [TestNG-PoolService-4] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-08 01:52:31 [TestNG-PoolService-4] INFO  LandingPage - Getting title of LandingPage!
+2026-02-08 01:52:31 [TestNG-PoolService-4] INFO  LandingPage - Searching product with name: Cucumber
+2026-02-08 01:52:32 [TestNG-PoolService-7] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-08 01:52:32 [TestNG-PoolService-7] INFO  LandingPage - Getting text of searched product!
+2026-02-08 01:52:32 [TestNG-PoolService-3] INFO  LandingPage - Incrementing quantity of searched product: 3
+2026-02-08 01:52:33 [TestNG-PoolService-4] INFO  LandingPage - Incrementing quantity of searched product: 1
+2026-02-08 01:52:34 [TestNG-PoolService-7] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-08 01:52:34 [TestNG-PoolService-7] INFO  LandingPage - Opening topDeals page!
+2026-02-08 01:52:34 [TestNG-PoolService-4] INFO  LandingPage - Adding product to cart!
+2026-02-08 01:52:36 [TestNG-PoolService-3] INFO  LandingPage - Adding product to cart!
+2026-02-08 01:52:36 [TestNG-PoolService-5] INFO  LandingPage - Adding product to cart!
+2026-02-08 01:52:37 [TestNG-PoolService-2] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-08 01:52:37 [TestNG-PoolService-2] INFO  LandingPage - Getting title of LandingPage!
+2026-02-08 01:52:37 [TestNG-PoolService-2] INFO  LandingPage - Searching product with name: Tomato
+2026-02-08 01:52:37 [TestNG-PoolService-4] INFO  Hooks - ===== ENDING SCENARIO: Search for products from Excel file, add them to cart, and complete the order | STATUS: PASSED =====
+2026-02-08 01:52:38 [TestNG-PoolService-2] INFO  LandingPage - Incrementing quantity of searched product: 2
+2026-02-08 01:52:38 [TestNG-PoolService-5] INFO  Hooks - ===== ENDING SCENARIO: Search for products from Excel file, add them to cart, and complete the order | STATUS: PASSED =====
+2026-02-08 01:52:38 [TestNG-PoolService-3] INFO  Hooks - ===== ENDING SCENARIO: Search for products from Excel file, add them to cart, and complete the order | STATUS: PASSED =====
+2026-02-08 01:52:39 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-08 01:52:39 [TestNG-PoolService-1] INFO  LandingPage - Getting title of LandingPage!
+2026-02-08 01:52:39 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-08 01:52:39 [TestNG-PoolService-1] INFO  LandingPage - Searching product with name: Tom
+2026-02-08 01:52:39 [TestNG-PoolService-7] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-08 01:52:39 [TestNG-PoolService-7] INFO  OffersPage - Entering product name into search field!
+2026-02-08 01:52:39 [TestNG-PoolService-2] INFO  LandingPage - Adding product to cart!
+2026-02-08 01:52:39 [TestNG-PoolService-7] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-08 01:52:39 [TestNG-PoolService-7] INFO  OffersPage - capturing productName text!
+2026-02-08 01:52:39 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-08 01:52:39 [TestNG-PoolService-1] INFO  LandingPage - Getting text of searched product!
+2026-02-08 01:52:40 [TestNG-PoolService-7] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-08 01:52:40 [TestNG-PoolService-7] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-08 01:52:40 [TestNG-PoolService-6] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-08 01:52:40 [TestNG-PoolService-6] INFO  LandingPage - Getting title of LandingPage!
+2026-02-08 01:52:40 [TestNG-PoolService-6] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-08 01:52:40 [TestNG-PoolService-6] INFO  LandingPage - Searching product with name: Tom
+2026-02-08 01:52:40 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - user is incrementing quantity of product to add in the cart!
+2026-02-08 01:52:40 [TestNG-PoolService-1] INFO  LandingPage - Incrementing quantity of searched product: 3
+2026-02-08 01:52:41 [TestNG-PoolService-6] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-08 01:52:41 [TestNG-PoolService-6] INFO  LandingPage - Getting text of searched product!
+2026-02-08 01:52:41 [TestNG-PoolService-2] INFO  Hooks - ===== ENDING SCENARIO: Search for products from Excel file, add them to cart, and complete the order | STATUS: PASSED =====
+2026-02-08 01:52:42 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - user adding product to cart!
+2026-02-08 01:52:42 [TestNG-PoolService-1] INFO  LandingPage - Adding product to cart!
+2026-02-08 01:52:42 [TestNG-PoolService-6] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-08 01:52:42 [TestNG-PoolService-6] INFO  LandingPage - Opening topDeals page!
+2026-02-08 01:52:42 [TestNG-PoolService-1] INFO  CheckoutPage - Clicking on cartBag!
+2026-02-08 01:52:43 [TestNG-PoolService-1] INFO  CheckoutPage - Clicking on checkoutButton!
+2026-02-08 01:52:43 [TestNG-PoolService-6] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-08 01:52:43 [TestNG-PoolService-6] INFO  OffersPage - Entering product name into search field!
+2026-02-08 01:52:43 [TestNG-PoolService-1] INFO  CheckoutPage - Verifying PromoBtn is displayed!
+2026-02-08 01:52:44 [TestNG-PoolService-1] INFO  CheckoutPage - Verifying placeOrder is displayed!
+2026-02-08 01:52:44 [TestNG-PoolService-1] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: PASSED =====
+2026-02-08 01:52:45 [TestNG-PoolService-6] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-08 01:52:45 [TestNG-PoolService-6] INFO  OffersPage - capturing productName text!
+2026-02-08 01:52:45 [TestNG-PoolService-6] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-08 01:52:45 [TestNG-PoolService-6] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: PASSED =====
+2026-02-08 01:52:48 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@57c00115: 110 ms
+2026-02-08 01:52:48 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4976085: 31 ms
+2026-02-08 01:52:48 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2f4b98f6: 18 ms
+2026-02-08 01:52:48 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@109f8c7e: 14 ms
+2026-02-08 01:52:48 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5e8507f1: 13 ms
+2026-02-08 01:52:48 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4bcaa195: 0 ms
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 01:57:14 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\AppData\Local\Temp\testng-eclipse-2144459117\testng-customsuite.xml
+
+2026-02-08 01:57:14 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-02-08 01:57:16 [TestNG-PoolService-4] INFO  Hooks - ===== STARTING SCENARIO: Search for products from Excel file, add them to cart, and complete the order =====
+2026-02-08 01:57:16 [TestNG-PoolService-3] INFO  Hooks - ===== STARTING SCENARIO: Search for products from Excel file, add them to cart, and complete the order =====
+2026-02-08 01:57:16 [TestNG-PoolService-5] INFO  Hooks - ===== STARTING SCENARIO: Search for products from Excel file, add them to cart, and complete the order =====
+2026-02-08 01:57:16 [TestNG-PoolService-7] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-08 01:57:16 [TestNG-PoolService-2] INFO  Hooks - ===== STARTING SCENARIO: Search for products from Excel file, add them to cart, and complete the order =====
+2026-02-08 01:57:16 [TestNG-PoolService-6] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-08 01:57:16 [TestNG-PoolService-1] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-08 01:57:16 [TestNG-PoolService-7] INFO  TestBase - Initializing browser: EDGE
+2026-02-08 01:57:16 [TestNG-PoolService-4] INFO  TestBase - Initializing browser: EDGE
+2026-02-08 01:57:16 [TestNG-PoolService-1] INFO  TestBase - Initializing browser: EDGE
+2026-02-08 01:57:16 [TestNG-PoolService-3] INFO  TestBase - Initializing browser: EDGE
+2026-02-08 01:57:16 [TestNG-PoolService-6] INFO  TestBase - Initializing browser: EDGE
+2026-02-08 01:57:16 [TestNG-PoolService-2] INFO  TestBase - Initializing browser: EDGE
+2026-02-08 01:57:16 [TestNG-PoolService-1] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-08 01:57:16 [TestNG-PoolService-7] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-08 01:57:16 [TestNG-PoolService-2] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-08 01:57:16 [TestNG-PoolService-5] INFO  TestBase - Initializing browser: EDGE
+2026-02-08 01:57:16 [TestNG-PoolService-4] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-08 01:57:16 [TestNG-PoolService-3] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-08 01:57:16 [TestNG-PoolService-5] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-08 01:57:16 [TestNG-PoolService-6] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-08 01:57:18 [TestNG-PoolService-2] INFO  WebDriverManager - Using msedgedriver 144.0.3719.115 (resolved driver for Edge 144)
+2026-02-08 01:57:18 [TestNG-PoolService-5] INFO  WebDriverManager - Using msedgedriver 144.0.3719.115 (resolved driver for Edge 144)
+2026-02-08 01:57:18 [TestNG-PoolService-7] INFO  WebDriverManager - Using msedgedriver 144.0.3719.115 (resolved driver for Edge 144)
+2026-02-08 01:57:18 [TestNG-PoolService-1] INFO  WebDriverManager - Using msedgedriver 144.0.3719.115 (resolved driver for Edge 144)
+2026-02-08 01:57:18 [TestNG-PoolService-4] INFO  WebDriverManager - Using msedgedriver 144.0.3719.115 (resolved driver for Edge 144)
+2026-02-08 01:57:18 [TestNG-PoolService-6] INFO  WebDriverManager - Using msedgedriver 144.0.3719.115 (resolved driver for Edge 144)
+2026-02-08 01:57:18 [TestNG-PoolService-3] INFO  WebDriverManager - Using msedgedriver 144.0.3719.115 (resolved driver for Edge 144)
+2026-02-08 01:57:18 [TestNG-PoolService-1] INFO  WebDriverManager - Exporting webdriver.edge.driver as C:\Users\Sumit\.cache\selenium\msedgedriver\win64\144.0.3719.115\msedgedriver.exe
+2026-02-08 01:57:18 [TestNG-PoolService-2] INFO  WebDriverManager - Exporting webdriver.edge.driver as C:\Users\Sumit\.cache\selenium\msedgedriver\win64\144.0.3719.115\msedgedriver.exe
+2026-02-08 01:57:18 [TestNG-PoolService-3] INFO  WebDriverManager - Exporting webdriver.edge.driver as C:\Users\Sumit\.cache\selenium\msedgedriver\win64\144.0.3719.115\msedgedriver.exe
+2026-02-08 01:57:18 [TestNG-PoolService-6] INFO  WebDriverManager - Exporting webdriver.edge.driver as C:\Users\Sumit\.cache\selenium\msedgedriver\win64\144.0.3719.115\msedgedriver.exe
+2026-02-08 01:57:18 [TestNG-PoolService-5] INFO  WebDriverManager - Exporting webdriver.edge.driver as C:\Users\Sumit\.cache\selenium\msedgedriver\win64\144.0.3719.115\msedgedriver.exe
+2026-02-08 01:57:18 [TestNG-PoolService-7] INFO  WebDriverManager - Exporting webdriver.edge.driver as C:\Users\Sumit\.cache\selenium\msedgedriver\win64\144.0.3719.115\msedgedriver.exe
+2026-02-08 01:57:18 [TestNG-PoolService-4] INFO  WebDriverManager - Exporting webdriver.edge.driver as C:\Users\Sumit\.cache\selenium\msedgedriver\win64\144.0.3719.115\msedgedriver.exe
+2026-02-08 01:57:40 [TestNG-PoolService-2] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-08 01:57:40 [TestNG-PoolService-2] INFO  LandingPage - Getting title of LandingPage!
+2026-02-08 01:57:42 [TestNG-PoolService-3] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-08 01:57:42 [TestNG-PoolService-3] INFO  LandingPage - Getting title of LandingPage!
+2026-02-08 01:57:42 [TestNG-PoolService-4] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-08 01:57:42 [TestNG-PoolService-4] INFO  LandingPage - Getting title of LandingPage!
+2026-02-08 01:57:42 [TestNG-PoolService-4] INFO  LandingPage - Searching product with name: Cucumber
+2026-02-08 01:57:42 [TestNG-PoolService-3] INFO  LandingPage - Searching product with name: Beans
+2026-02-08 01:57:43 [TestNG-PoolService-3] INFO  LandingPage - Incrementing quantity of searched product: 3
+2026-02-08 01:57:43 [TestNG-PoolService-4] INFO  LandingPage - Incrementing quantity of searched product: 1
+2026-02-08 01:57:44 [TestNG-PoolService-4] INFO  LandingPage - Adding product to cart!
+2026-02-08 01:57:44 [TestNG-PoolService-7] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-08 01:57:44 [TestNG-PoolService-7] INFO  LandingPage - Getting title of LandingPage!
+2026-02-08 01:57:44 [TestNG-PoolService-7] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-08 01:57:44 [TestNG-PoolService-7] INFO  LandingPage - Searching product with name: Beet
+2026-02-08 01:57:44 [TestNG-PoolService-2] INFO  LandingPage - Searching product with name: Tomato
+2026-02-08 01:57:44 [TestNG-PoolService-5] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-08 01:57:44 [TestNG-PoolService-5] INFO  LandingPage - Getting title of LandingPage!
+2026-02-08 01:57:44 [TestNG-PoolService-5] INFO  LandingPage - Searching product with name: Beetroot
+2026-02-08 01:57:45 [TestNG-PoolService-7] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-08 01:57:45 [TestNG-PoolService-7] INFO  LandingPage - Getting text of searched product!
+2026-02-08 01:57:45 [TestNG-PoolService-2] INFO  LandingPage - Incrementing quantity of searched product: 2
+2026-02-08 01:57:45 [TestNG-PoolService-3] INFO  LandingPage - Adding product to cart!
+2026-02-08 01:57:45 [TestNG-PoolService-5] INFO  LandingPage - Incrementing quantity of searched product: 4
+2026-02-08 01:57:46 [TestNG-PoolService-4] INFO  Hooks - ===== ENDING SCENARIO: Search for products from Excel file, add them to cart, and complete the order | STATUS: PASSED =====
+2026-02-08 01:57:46 [TestNG-PoolService-6] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-08 01:57:46 [TestNG-PoolService-6] INFO  LandingPage - Getting title of LandingPage!
+2026-02-08 01:57:48 [TestNG-PoolService-7] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-08 01:57:48 [TestNG-PoolService-7] INFO  LandingPage - Opening topDeals page!
+2026-02-08 01:57:48 [TestNG-PoolService-2] INFO  LandingPage - Adding product to cart!
+2026-02-08 01:57:52 [TestNG-PoolService-3] INFO  Hooks - ===== ENDING SCENARIO: Search for products from Excel file, add them to cart, and complete the order | STATUS: PASSED =====
+2026-02-08 01:57:54 [TestNG-PoolService-5] INFO  LandingPage - Adding product to cart!
+2026-02-08 01:57:54 [TestNG-PoolService-6] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-08 01:57:54 [TestNG-PoolService-6] INFO  LandingPage - Searching product with name: Tom
+2026-02-08 01:57:54 [TestNG-PoolService-2] INFO  Hooks - ===== ENDING SCENARIO: Search for products from Excel file, add them to cart, and complete the order | STATUS: PASSED =====
+2026-02-08 01:57:54 [TestNG-PoolService-7] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-08 01:57:54 [TestNG-PoolService-7] INFO  OffersPage - Entering product name into search field!
+2026-02-08 01:57:54 [TestNG-PoolService-6] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-08 01:57:54 [TestNG-PoolService-6] INFO  LandingPage - Getting text of searched product!
+2026-02-08 01:57:55 [TestNG-PoolService-7] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-08 01:57:55 [TestNG-PoolService-7] INFO  OffersPage - capturing productName text!
+2026-02-08 01:57:55 [TestNG-PoolService-7] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-08 01:57:55 [TestNG-PoolService-7] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-08 01:57:55 [TestNG-PoolService-6] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-08 01:57:55 [TestNG-PoolService-6] INFO  LandingPage - Opening topDeals page!
+2026-02-08 01:57:58 [TestNG-PoolService-5] INFO  Hooks - ===== ENDING SCENARIO: Search for products from Excel file, add them to cart, and complete the order | STATUS: PASSED =====
+2026-02-08 01:57:59 [TestNG-PoolService-6] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-08 01:57:59 [TestNG-PoolService-6] INFO  OffersPage - Entering product name into search field!
+2026-02-08 01:57:59 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-08 01:57:59 [TestNG-PoolService-1] INFO  LandingPage - Getting title of LandingPage!
+2026-02-08 01:57:59 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-08 01:57:59 [TestNG-PoolService-1] INFO  LandingPage - Searching product with name: Tom
+2026-02-08 01:58:00 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-08 01:58:00 [TestNG-PoolService-1] INFO  LandingPage - Getting text of searched product!
+2026-02-08 01:58:01 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - user is incrementing quantity of product to add in the cart!
+2026-02-08 01:58:01 [TestNG-PoolService-1] INFO  LandingPage - Incrementing quantity of searched product: 3
+2026-02-08 01:58:02 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - user adding product to cart!
+2026-02-08 01:58:02 [TestNG-PoolService-1] INFO  LandingPage - Adding product to cart!
+2026-02-08 01:58:02 [TestNG-PoolService-1] INFO  CheckoutPage - Clicking on cartBag!
+2026-02-08 01:58:02 [TestNG-PoolService-1] INFO  CheckoutPage - Clicking on checkoutButton!
+2026-02-08 01:58:03 [TestNG-PoolService-1] INFO  CheckoutPage - Verifying PromoBtn is displayed!
+2026-02-08 01:58:03 [TestNG-PoolService-1] INFO  CheckoutPage - Verifying placeOrder is displayed!
+2026-02-08 01:58:04 [TestNG-PoolService-1] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: PASSED =====
+2026-02-08 01:58:06 [TestNG-PoolService-6] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-08 01:58:06 [TestNG-PoolService-6] INFO  OffersPage - capturing productName text!
+2026-02-08 01:58:06 [TestNG-PoolService-6] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-08 01:58:06 [TestNG-PoolService-6] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: PASSED =====
+2026-02-08 01:58:08 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@591a4f8e: 115 ms
+2026-02-08 01:58:08 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3b1dc579: 36 ms
+2026-02-08 01:58:08 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@5f5effb0: 37 ms
+2026-02-08 01:58:08 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@47e51549: 11 ms
+2026-02-08 01:58:08 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@109f8c7e: 90 ms
+2026-02-08 01:58:08 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5edacf20: 0 ms
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:29:04 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\AppData\Local\Temp\testng-eclipse-1710590408\testng-customsuite.xml
+
+2026-02-08 02:29:04 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-02-08 02:29:05 [TestNG-PoolService-2] INFO  Hooks - ===== STARTING SCENARIO: Search for products from Excel file, add them to cart, and complete the order =====
+2026-02-08 02:29:05 [TestNG-PoolService-1] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-08 02:29:05 [TestNG-PoolService-5] INFO  Hooks - ===== STARTING SCENARIO: Search for products from Excel file, add them to cart, and complete the order =====
+2026-02-08 02:29:05 [TestNG-PoolService-3] INFO  Hooks - ===== STARTING SCENARIO: Search for products from Excel file, add them to cart, and complete the order =====
+2026-02-08 02:29:05 [TestNG-PoolService-4] INFO  Hooks - ===== STARTING SCENARIO: Search for products from Excel file, add them to cart, and complete the order =====
+2026-02-08 02:29:05 [TestNG-PoolService-7] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-08 02:29:05 [TestNG-PoolService-6] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-08 02:29:06 [TestNG-PoolService-5] INFO  Hooks - ===== ENDING SCENARIO: Search for products from Excel file, add them to cart, and complete the order | STATUS: FAILED =====
+2026-02-08 02:29:06 [TestNG-PoolService-2] INFO  Hooks - ===== ENDING SCENARIO: Search for products from Excel file, add them to cart, and complete the order | STATUS: FAILED =====
+2026-02-08 02:29:06 [TestNG-PoolService-7] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-08 02:29:06 [TestNG-PoolService-1] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-08 02:29:06 [TestNG-PoolService-6] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-08 02:29:06 [TestNG-PoolService-4] INFO  Hooks - ===== ENDING SCENARIO: Search for products from Excel file, add them to cart, and complete the order | STATUS: FAILED =====
+2026-02-08 02:29:06 [TestNG-PoolService-3] INFO  Hooks - ===== ENDING SCENARIO: Search for products from Excel file, add them to cart, and complete the order | STATUS: FAILED =====
+2026-02-08 02:29:06 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4e642ee1: 95 ms
+2026-02-08 02:29:06 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@659feb22: 37 ms
+2026-02-08 02:29:06 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7e307087: 19 ms
+2026-02-08 02:29:06 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@31b7d869: 12 ms
+2026-02-08 02:29:06 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@18539cb1: 12 ms
+2026-02-08 02:29:06 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@748f93bb: 0 ms
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:31:05 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\AppData\Local\Temp\testng-eclipse-1554149203\testng-customsuite.xml
+
+2026-02-08 02:31:05 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 16 ms.
+2026-02-08 02:31:08 [TestNG-PoolService-2] INFO  Hooks - ===== STARTING SCENARIO: Search for products from Excel file, add them to cart, and complete the order =====
+2026-02-08 02:31:08 [TestNG-PoolService-6] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-08 02:31:08 [TestNG-PoolService-5] INFO  Hooks - ===== STARTING SCENARIO: Search for products from Excel file, add them to cart, and complete the order =====
+2026-02-08 02:31:08 [TestNG-PoolService-3] INFO  Hooks - ===== STARTING SCENARIO: Search for products from Excel file, add them to cart, and complete the order =====
+2026-02-08 02:31:08 [TestNG-PoolService-4] INFO  Hooks - ===== STARTING SCENARIO: Search for products from Excel file, add them to cart, and complete the order =====
+2026-02-08 02:31:08 [TestNG-PoolService-1] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-08 02:31:08 [TestNG-PoolService-7] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-08 02:31:08 [TestNG-PoolService-5] INFO  TestBase - Initializing browser: CHROME
+2026-02-08 02:31:08 [TestNG-PoolService-3] INFO  TestBase - Initializing browser: CHROME
+2026-02-08 02:31:08 [TestNG-PoolService-5] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-08 02:31:08 [TestNG-PoolService-6] INFO  TestBase - Initializing browser: CHROME
+2026-02-08 02:31:08 [TestNG-PoolService-7] INFO  TestBase - Initializing browser: CHROME
+2026-02-08 02:31:08 [TestNG-PoolService-4] INFO  TestBase - Initializing browser: CHROME
+2026-02-08 02:31:08 [TestNG-PoolService-4] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-08 02:31:08 [TestNG-PoolService-2] INFO  TestBase - Initializing browser: CHROME
+2026-02-08 02:31:08 [TestNG-PoolService-1] INFO  TestBase - Initializing browser: CHROME
+2026-02-08 02:31:08 [TestNG-PoolService-2] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-08 02:31:08 [TestNG-PoolService-7] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-08 02:31:08 [TestNG-PoolService-3] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-08 02:31:08 [TestNG-PoolService-6] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-08 02:31:08 [TestNG-PoolService-1] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-08 02:31:13 [TestNG-PoolService-3] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-08 02:31:14 [TestNG-PoolService-1] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-08 02:31:14 [TestNG-PoolService-3] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-08 02:31:14 [TestNG-PoolService-4] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-08 02:31:14 [TestNG-PoolService-6] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-08 02:31:14 [TestNG-PoolService-7] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-08 02:31:14 [TestNG-PoolService-1] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-08 02:31:14 [TestNG-PoolService-2] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-08 02:31:14 [TestNG-PoolService-4] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-08 02:31:14 [TestNG-PoolService-6] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-08 02:31:14 [TestNG-PoolService-7] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-08 02:31:14 [TestNG-PoolService-2] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-08 02:31:14 [TestNG-PoolService-5] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-08 02:31:14 [TestNG-PoolService-5] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-08 02:31:23 [TestNG-PoolService-7] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-08 02:31:23 [TestNG-PoolService-7] INFO  LandingPage - Getting title of LandingPage!
+2026-02-08 02:31:23 [TestNG-PoolService-5] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-08 02:31:23 [TestNG-PoolService-5] INFO  LandingPage - Getting title of LandingPage!
+2026-02-08 02:31:38 [TestNG-PoolService-2] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-08 02:31:38 [TestNG-PoolService-2] INFO  LandingPage - Getting title of LandingPage!
+2026-02-08 02:31:39 [TestNG-PoolService-6] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-08 02:31:39 [TestNG-PoolService-6] INFO  LandingPage - Getting title of LandingPage!
+2026-02-08 02:31:39 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-08 02:31:39 [TestNG-PoolService-1] INFO  LandingPage - Getting title of LandingPage!
+2026-02-08 02:31:39 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-08 02:31:39 [TestNG-PoolService-1] INFO  LandingPage - Searching product with name: Tom
+2026-02-08 02:31:40 [TestNG-PoolService-6] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-08 02:31:40 [TestNG-PoolService-6] INFO  LandingPage - Searching product with name: Tom
+2026-02-08 02:31:40 [TestNG-PoolService-2] INFO  LandingPage - Searching product with name: Tomato
+2026-02-08 02:31:41 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-08 02:31:41 [TestNG-PoolService-1] INFO  LandingPage - Getting text of searched product!
+2026-02-08 02:31:41 [TestNG-PoolService-6] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-08 02:31:41 [TestNG-PoolService-6] INFO  LandingPage - Getting text of searched product!
+2026-02-08 02:31:42 [TestNG-PoolService-2] INFO  LandingPage - Incrementing quantity of searched product: 2
+2026-02-08 02:31:42 [TestNG-PoolService-6] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-08 02:31:42 [TestNG-PoolService-6] INFO  LandingPage - Opening topDeals page!
+2026-02-08 02:31:43 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - user is incrementing quantity of product to add in the cart!
+2026-02-08 02:31:43 [TestNG-PoolService-1] INFO  LandingPage - Incrementing quantity of searched product: 3
+2026-02-08 02:31:45 [TestNG-PoolService-2] INFO  LandingPage - Adding product to cart!
+2026-02-08 02:31:53 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - user adding product to cart!
+2026-02-08 02:31:53 [TestNG-PoolService-1] INFO  LandingPage - Adding product to cart!
+2026-02-08 02:31:56 [TestNG-PoolService-1] INFO  CheckoutPage - Clicking on cartBag!
+2026-02-08 02:31:57 [TestNG-PoolService-2] INFO  Hooks - ===== ENDING SCENARIO: Search for products from Excel file, add them to cart, and complete the order | STATUS: PASSED =====
+2026-02-08 02:31:57 [TestNG-PoolService-1] INFO  CheckoutPage - Clicking on checkoutButton!
+2026-02-08 02:31:57 [TestNG-PoolService-5] INFO  LandingPage - Searching product with name: Beetroot
+2026-02-08 02:31:58 [TestNG-PoolService-3] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-08 02:31:58 [TestNG-PoolService-3] INFO  LandingPage - Getting title of LandingPage!
+2026-02-08 02:31:58 [TestNG-PoolService-1] INFO  CheckoutPage - Verifying PromoBtn is displayed!
+2026-02-08 02:31:58 [TestNG-PoolService-3] INFO  LandingPage - Searching product with name: Beans
+2026-02-08 02:31:58 [TestNG-PoolService-4] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-08 02:31:58 [TestNG-PoolService-4] INFO  LandingPage - Getting title of LandingPage!
+2026-02-08 02:31:58 [TestNG-PoolService-4] INFO  LandingPage - Searching product with name: Cucumber
+2026-02-08 02:31:58 [TestNG-PoolService-5] INFO  LandingPage - Incrementing quantity of searched product: 4
+2026-02-08 02:31:59 [TestNG-PoolService-1] INFO  CheckoutPage - Verifying placeOrder is displayed!
+2026-02-08 02:31:59 [TestNG-PoolService-3] INFO  LandingPage - Incrementing quantity of searched product: 3
+2026-02-08 02:32:00 [TestNG-PoolService-1] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: PASSED =====
+2026-02-08 02:32:00 [TestNG-PoolService-4] INFO  LandingPage - Incrementing quantity of searched product: 1
+2026-02-08 02:32:01 [TestNG-PoolService-4] INFO  LandingPage - Adding product to cart!
+2026-02-08 02:32:04 [TestNG-PoolService-3] INFO  LandingPage - Adding product to cart!
+2026-02-08 02:32:04 [TestNG-PoolService-5] INFO  LandingPage - Adding product to cart!
+2026-02-08 02:32:04 [TestNG-PoolService-4] INFO  Hooks - ===== ENDING SCENARIO: Search for products from Excel file, add them to cart, and complete the order | STATUS: PASSED =====
+2026-02-08 02:32:06 [TestNG-PoolService-3] INFO  Hooks - ===== ENDING SCENARIO: Search for products from Excel file, add them to cart, and complete the order | STATUS: PASSED =====
+2026-02-08 02:32:07 [TestNG-PoolService-5] INFO  Hooks - ===== ENDING SCENARIO: Search for products from Excel file, add them to cart, and complete the order | STATUS: PASSED =====
+2026-02-08 02:32:07 [TestNG-PoolService-6] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-08 02:32:07 [TestNG-PoolService-6] INFO  OffersPage - Entering product name into search field!
+2026-02-08 02:32:07 [TestNG-PoolService-6] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-08 02:32:07 [TestNG-PoolService-6] INFO  OffersPage - capturing productName text!
+2026-02-08 02:32:07 [TestNG-PoolService-6] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-08 02:32:08 [TestNG-PoolService-6] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: PASSED =====
+2026-02-08 02:32:08 [TestNG-PoolService-7] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-08 02:32:08 [TestNG-PoolService-7] INFO  LandingPage - Searching product with name: Beet
+2026-02-08 02:32:09 [TestNG-PoolService-7] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-08 02:32:09 [TestNG-PoolService-7] INFO  LandingPage - Getting text of searched product!
+2026-02-08 02:32:10 [TestNG-PoolService-7] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-08 02:32:10 [TestNG-PoolService-7] INFO  LandingPage - Opening topDeals page!
+2026-02-08 02:32:13 [TestNG-PoolService-7] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-08 02:32:13 [TestNG-PoolService-7] INFO  OffersPage - Entering product name into search field!
+2026-02-08 02:32:14 [TestNG-PoolService-7] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-08 02:32:14 [TestNG-PoolService-7] INFO  OffersPage - capturing productName text!
+2026-02-08 02:32:14 [TestNG-PoolService-7] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-08 02:32:15 [TestNG-PoolService-7] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-08 02:32:24 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@591a4f8e: 125 ms
+2026-02-08 02:32:24 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@dd2856e: 29 ms
+2026-02-08 02:32:24 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3134153d: 25 ms
+2026-02-08 02:32:24 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2da16263: 13 ms
+2026-02-08 02:32:24 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7377781e: 7 ms
+2026-02-08 02:32:24 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@31db34da: 0 ms
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-08 02:39:35 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\AppData\Local\Temp\testng-eclipse-1341115449\testng-customsuite.xml
+
+2026-02-08 02:39:35 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2026-02-08 02:39:37 [TestNG-PoolService-2] INFO  Hooks - ===== STARTING SCENARIO: Search for products from Excel file, add them to cart, and complete the order =====
+2026-02-08 02:39:37 [TestNG-PoolService-1] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-08 02:39:37 [TestNG-PoolService-4] INFO  Hooks - ===== STARTING SCENARIO: Search for products from Excel file, add them to cart, and complete the order =====
+2026-02-08 02:39:37 [TestNG-PoolService-5] INFO  Hooks - ===== STARTING SCENARIO: Search for products from Excel file, add them to cart, and complete the order =====
+2026-02-08 02:39:37 [TestNG-PoolService-6] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-08 02:39:37 [TestNG-PoolService-3] INFO  Hooks - ===== STARTING SCENARIO: Search for products from Excel file, add them to cart, and complete the order =====
+2026-02-08 02:39:37 [TestNG-PoolService-7] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-08 02:39:37 [TestNG-PoolService-2] INFO  TestBase - Initializing browser: CHROME
+2026-02-08 02:39:37 [TestNG-PoolService-6] INFO  TestBase - Initializing browser: CHROME
+2026-02-08 02:39:37 [TestNG-PoolService-3] INFO  TestBase - Initializing browser: CHROME
+2026-02-08 02:39:37 [TestNG-PoolService-4] INFO  TestBase - Initializing browser: CHROME
+2026-02-08 02:39:37 [TestNG-PoolService-1] INFO  TestBase - Initializing browser: CHROME
+2026-02-08 02:39:37 [TestNG-PoolService-4] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-08 02:39:37 [TestNG-PoolService-2] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-08 02:39:37 [TestNG-PoolService-5] INFO  TestBase - Initializing browser: CHROME
+2026-02-08 02:39:37 [TestNG-PoolService-7] INFO  TestBase - Initializing browser: CHROME
+2026-02-08 02:39:37 [TestNG-PoolService-5] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-08 02:39:37 [TestNG-PoolService-3] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-08 02:39:37 [TestNG-PoolService-1] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-08 02:39:37 [TestNG-PoolService-7] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-08 02:39:37 [TestNG-PoolService-6] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-08 02:39:37 [TestNG-PoolService-1] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-08 02:39:37 [TestNG-PoolService-6] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-08 02:39:37 [TestNG-PoolService-7] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-08 02:39:37 [TestNG-PoolService-5] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-08 02:39:37 [TestNG-PoolService-2] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-08 02:39:37 [TestNG-PoolService-3] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-08 02:39:37 [TestNG-PoolService-4] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-08 02:39:37 [TestNG-PoolService-2] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-08 02:39:37 [TestNG-PoolService-6] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-08 02:39:37 [TestNG-PoolService-5] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-08 02:39:37 [TestNG-PoolService-1] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-08 02:39:37 [TestNG-PoolService-4] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-08 02:39:37 [TestNG-PoolService-3] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-08 02:39:37 [TestNG-PoolService-7] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-08 02:39:53 [TestNG-PoolService-5] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-08 02:39:53 [TestNG-PoolService-5] INFO  LandingPage - Getting title of LandingPage!
+2026-02-08 02:39:58 [TestNG-PoolService-7] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-08 02:39:58 [TestNG-PoolService-7] INFO  LandingPage - Getting title of LandingPage!
+2026-02-08 02:39:58 [TestNG-PoolService-7] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-08 02:39:58 [TestNG-PoolService-7] INFO  LandingPage - Searching product with name: Beet
+2026-02-08 02:40:00 [TestNG-PoolService-6] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-08 02:40:00 [TestNG-PoolService-6] INFO  LandingPage - Getting title of LandingPage!
+2026-02-08 02:40:00 [TestNG-PoolService-6] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-08 02:40:00 [TestNG-PoolService-6] INFO  LandingPage - Searching product with name: Tom
+2026-02-08 02:40:00 [TestNG-PoolService-7] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-08 02:40:00 [TestNG-PoolService-7] INFO  LandingPage - Getting text of searched product!
+2026-02-08 02:40:01 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-08 02:40:01 [TestNG-PoolService-1] INFO  LandingPage - Getting title of LandingPage!
+2026-02-08 02:40:02 [TestNG-PoolService-5] INFO  LandingPage - Searching product with name: Beetroot
+2026-02-08 02:40:02 [TestNG-PoolService-6] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-08 02:40:02 [TestNG-PoolService-6] INFO  LandingPage - Getting text of searched product!
+2026-02-08 02:40:02 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-08 02:40:02 [TestNG-PoolService-1] INFO  LandingPage - Searching product with name: Tom
+2026-02-08 02:40:02 [TestNG-PoolService-7] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-08 02:40:02 [TestNG-PoolService-7] INFO  LandingPage - Opening topDeals page!
+2026-02-08 02:40:03 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-08 02:40:03 [TestNG-PoolService-1] INFO  LandingPage - Getting text of searched product!
+2026-02-08 02:40:04 [TestNG-PoolService-5] INFO  LandingPage - Incrementing quantity of searched product: 4
+2026-02-08 02:40:04 [TestNG-PoolService-6] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-08 02:40:04 [TestNG-PoolService-6] INFO  LandingPage - Opening topDeals page!
+2026-02-08 02:40:04 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - user is incrementing quantity of product to add in the cart!
+2026-02-08 02:40:04 [TestNG-PoolService-1] INFO  LandingPage - Incrementing quantity of searched product: 3
+2026-02-08 02:40:08 [TestNG-PoolService-3] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-08 02:40:08 [TestNG-PoolService-3] INFO  LandingPage - Getting title of LandingPage!
+2026-02-08 02:40:08 [TestNG-PoolService-3] INFO  LandingPage - Searching product with name: Beans
+2026-02-08 02:40:11 [TestNG-PoolService-3] INFO  LandingPage - Incrementing quantity of searched product: 3
+2026-02-08 02:40:11 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - user adding product to cart!
+2026-02-08 02:40:11 [TestNG-PoolService-1] INFO  LandingPage - Adding product to cart!
+2026-02-08 02:40:12 [TestNG-PoolService-5] INFO  LandingPage - Adding product to cart!
+2026-02-08 02:40:12 [TestNG-PoolService-1] INFO  CheckoutPage - Clicking on cartBag!
+2026-02-08 02:40:13 [TestNG-PoolService-1] INFO  CheckoutPage - Clicking on checkoutButton!
+2026-02-08 02:40:14 [TestNG-PoolService-3] INFO  LandingPage - Adding product to cart!
+2026-02-08 02:40:14 [TestNG-PoolService-4] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-08 02:40:14 [TestNG-PoolService-4] INFO  LandingPage - Getting title of LandingPage!
+2026-02-08 02:40:14 [TestNG-PoolService-2] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-08 02:40:14 [TestNG-PoolService-2] INFO  LandingPage - Getting title of LandingPage!
+2026-02-08 02:40:14 [TestNG-PoolService-4] INFO  LandingPage - Searching product with name: Cucumber
+2026-02-08 02:40:14 [TestNG-PoolService-2] INFO  LandingPage - Searching product with name: Tomato
+2026-02-08 02:40:14 [TestNG-PoolService-1] INFO  CheckoutPage - Verifying PromoBtn is displayed!
+2026-02-08 02:40:15 [TestNG-PoolService-7] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-08 02:40:15 [TestNG-PoolService-7] INFO  OffersPage - Entering product name into search field!
+2026-02-08 02:40:15 [TestNG-PoolService-5] INFO  Hooks - ===== ENDING SCENARIO: Search for products from Excel file, add them to cart, and complete the order | STATUS: PASSED =====
+2026-02-08 02:40:16 [TestNG-PoolService-1] INFO  CheckoutPage - Verifying placeOrder is displayed!
+2026-02-08 02:40:16 [TestNG-PoolService-4] INFO  LandingPage - Incrementing quantity of searched product: 1
+2026-02-08 02:40:16 [TestNG-PoolService-2] INFO  LandingPage - Incrementing quantity of searched product: 2
+2026-02-08 02:40:16 [TestNG-PoolService-7] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-08 02:40:16 [TestNG-PoolService-7] INFO  OffersPage - capturing productName text!
+2026-02-08 02:40:16 [TestNG-PoolService-1] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: PASSED =====
+2026-02-08 02:40:16 [TestNG-PoolService-6] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-08 02:40:16 [TestNG-PoolService-6] INFO  OffersPage - Entering product name into search field!
+2026-02-08 02:40:16 [TestNG-PoolService-4] INFO  LandingPage - Adding product to cart!
+2026-02-08 02:40:17 [TestNG-PoolService-7] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-08 02:40:17 [TestNG-PoolService-3] INFO  Hooks - ===== ENDING SCENARIO: Search for products from Excel file, add them to cart, and complete the order | STATUS: PASSED =====
+2026-02-08 02:40:17 [TestNG-PoolService-6] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-08 02:40:17 [TestNG-PoolService-6] INFO  OffersPage - capturing productName text!
+2026-02-08 02:40:18 [TestNG-PoolService-2] INFO  LandingPage - Adding product to cart!
+2026-02-08 02:40:18 [TestNG-PoolService-6] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-08 02:40:18 [TestNG-PoolService-7] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-08 02:40:18 [TestNG-PoolService-6] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: PASSED =====
+2026-02-08 02:40:19 [TestNG-PoolService-4] INFO  Hooks - ===== ENDING SCENARIO: Search for products from Excel file, add them to cart, and complete the order | STATUS: PASSED =====
+2026-02-08 02:40:19 [TestNG-PoolService-2] INFO  Hooks - ===== ENDING SCENARIO: Search for products from Excel file, add them to cart, and complete the order | STATUS: PASSED =====
+2026-02-08 02:40:25 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@57c00115: 117 ms
+2026-02-08 02:40:25 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@77f905e3: 32 ms
+2026-02-08 02:40:25 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6e3eb0cd: 21 ms
+2026-02-08 02:40:25 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5ebffb44: 15 ms
+2026-02-08 02:40:25 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7e307087: 16 ms
+2026-02-08 02:40:25 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1220ef43: 0 ms

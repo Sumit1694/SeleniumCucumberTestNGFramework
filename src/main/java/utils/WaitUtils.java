@@ -9,8 +9,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import Constants.FrameworkConstants;
 import base.DriverFactory;
-import configs.ConfigReader;
 import enums.WaitStrategy;
 
 public class WaitUtils {
@@ -19,7 +19,7 @@ public class WaitUtils {
 
 	public WaitUtils() {
 		WebDriver driver = DriverFactory.getDriver();
-		this.wait = new WebDriverWait(driver,Duration.ofSeconds(ConfigReader.getTimeout()));
+		this.wait = new WebDriverWait(driver,Duration.ofSeconds(FrameworkConstants.DEFAULT_TIMEOUT));
 	}
 
 	public WebElement waitForElement(By locator, WaitStrategy strategy) {
