@@ -2410,3 +2410,257 @@
 2026-02-07 18:16:22 [TestNG-tests-3] INFO  OffersPage - capturing productName text!
 2026-02-07 18:16:22 [TestNG-tests-3] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
 2026-02-07 18:16:22 [TestNG-tests-3] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: PASSED =====
+2026-02-07 18:20:13 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\CucumberSeleniumProject\Rerun-FailedTests.xml
+
+2026-02-07 18:20:14 [main] WARN  Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+2026-02-07 18:20:15 [main] WARN  Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+2026-02-07 18:20:15 [main] WARN  Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+2026-02-07 18:21:20 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\CucumberSeleniumProject\Rerun-FailedTests.xml
+
+2026-02-07 18:21:21 [main] WARN  Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+2026-02-07 18:21:22 [main] WARN  Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+2026-02-07 18:21:22 [main] WARN  Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+2026-02-07 18:21:40 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\CucumberSeleniumProject\Parallel-Tests.xml
+
+2026-02-07 18:21:42 [TestNG-tests-3] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 18:21:42 [TestNG-tests-1] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 18:21:42 [TestNG-tests-2] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 18:21:42 [TestNG-tests-3] INFO  TestBase - Initializing browser: firefox
+2026-02-07 18:21:42 [TestNG-tests-1] INFO  TestBase - Initializing browser: chrome
+2026-02-07 18:21:42 [TestNG-tests-2] INFO  TestBase - Initializing browser: edge
+2026-02-07 18:21:42 [TestNG-tests-3] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 18:21:42 [TestNG-tests-2] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 18:21:42 [TestNG-tests-1] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 18:21:42 [TestNG-tests-3] INFO  WebDriverManager - Using geckodriver 0.36.0 (resolved driver for Firefox 143)
+2026-02-07 18:21:42 [TestNG-tests-1] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-07 18:21:42 [TestNG-tests-2] INFO  WebDriverManager - Using msedgedriver 144.0.3719.115 (resolved driver for Edge 144)
+2026-02-07 18:21:43 [TestNG-tests-2] INFO  WebDriverManager - Exporting webdriver.edge.driver as C:\Users\Sumit\.cache\selenium\msedgedriver\win64\144.0.3719.115\msedgedriver.exe
+2026-02-07 18:21:43 [TestNG-tests-3] INFO  WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\Sumit\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+2026-02-07 18:21:43 [TestNG-tests-1] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-07 18:21:53 [TestNG-tests-2] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 18:21:53 [TestNG-tests-2] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 18:21:53 [TestNG-tests-2] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 18:21:53 [TestNG-tests-2] INFO  LandingPage - Searching product with name: Tom
+2026-02-07 18:21:53 [TestNG-tests-1] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 18:21:53 [TestNG-tests-1] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 18:21:53 [TestNG-tests-1] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 18:21:53 [TestNG-tests-1] INFO  LandingPage - Searching product with name: Tom
+2026-02-07 18:21:53 [TestNG-tests-2] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 18:21:53 [TestNG-tests-2] INFO  LandingPage - Getting text of searched product!
+2026-02-07 18:21:53 [TestNG-tests-1] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 18:21:53 [TestNG-tests-1] INFO  LandingPage - Getting text of searched product!
+2026-02-07 18:21:54 [TestNG-tests-1] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-07 18:21:54 [TestNG-tests-1] INFO  LandingPage - Opening topDeals page!
+2026-02-07 18:21:54 [TestNG-tests-2] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-07 18:21:54 [TestNG-tests-2] INFO  LandingPage - Opening topDeals page!
+2026-02-07 18:21:56 [TestNG-tests-1] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-07 18:21:56 [TestNG-tests-1] INFO  OffersPage - Entering product name into search field!
+2026-02-07 18:21:56 [TestNG-tests-2] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-07 18:21:56 [TestNG-tests-2] INFO  OffersPage - Entering product name into search field!
+2026-02-07 18:21:57 [TestNG-tests-1] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-07 18:21:57 [TestNG-tests-1] INFO  OffersPage - capturing productName text!
+2026-02-07 18:21:57 [TestNG-tests-1] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-07 18:21:57 [TestNG-tests-1] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: PASSED =====
+2026-02-07 18:21:57 [TestNG-tests-2] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-07 18:21:57 [TestNG-tests-2] INFO  OffersPage - capturing productName text!
+2026-02-07 18:21:58 [TestNG-tests-2] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-07 18:21:58 [TestNG-tests-2] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: PASSED =====
+2026-02-07 18:21:59 [TestNG-tests-1] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 18:21:59 [TestNG-tests-1] INFO  TestBase - Initializing browser: chrome
+2026-02-07 18:21:59 [TestNG-tests-1] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 18:21:59 [TestNG-tests-1] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-07 18:21:59 [TestNG-tests-1] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-07 18:21:59 [TestNG-tests-2] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 18:21:59 [TestNG-tests-2] INFO  TestBase - Initializing browser: chrome
+2026-02-07 18:21:59 [TestNG-tests-2] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 18:21:59 [TestNG-tests-2] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-07 18:21:59 [TestNG-tests-2] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-07 18:22:06 [TestNG-tests-2] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 18:22:06 [TestNG-tests-2] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 18:22:06 [TestNG-tests-2] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 18:22:06 [TestNG-tests-2] INFO  LandingPage - Searching product with name: BeetT
+2026-02-07 18:22:07 [TestNG-tests-2] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 18:22:07 [TestNG-tests-2] INFO  LandingPage - Getting text of searched product!
+2026-02-07 18:22:07 [TestNG-tests-3] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 18:22:07 [TestNG-tests-3] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 18:22:07 [TestNG-tests-3] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 18:22:07 [TestNG-tests-3] INFO  LandingPage - Searching product with name: Tom
+2026-02-07 18:22:07 [TestNG-tests-3] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 18:22:07 [TestNG-tests-3] INFO  LandingPage - Getting text of searched product!
+2026-02-07 18:22:08 [TestNG-tests-1] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 18:22:08 [TestNG-tests-1] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 18:22:08 [TestNG-tests-1] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 18:22:08 [TestNG-tests-1] INFO  LandingPage - Searching product with name: BeetT
+2026-02-07 18:22:08 [TestNG-tests-3] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-07 18:22:08 [TestNG-tests-3] INFO  LandingPage - Opening topDeals page!
+2026-02-07 18:22:08 [TestNG-tests-1] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 18:22:08 [TestNG-tests-1] INFO  LandingPage - Getting text of searched product!
+2026-02-07 18:22:08 [TestNG-tests-3] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-07 18:22:08 [TestNG-tests-3] INFO  OffersPage - Entering product name into search field!
+2026-02-07 18:22:09 [TestNG-tests-3] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-07 18:22:09 [TestNG-tests-3] INFO  OffersPage - capturing productName text!
+2026-02-07 18:22:09 [TestNG-tests-3] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-07 18:22:09 [TestNG-tests-3] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: PASSED =====
+2026-02-07 18:22:11 [TestNG-tests-3] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 18:22:11 [TestNG-tests-3] INFO  TestBase - Initializing browser: chrome
+2026-02-07 18:22:11 [TestNG-tests-3] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 18:22:11 [TestNG-tests-3] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-07 18:22:11 [TestNG-tests-3] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-07 18:22:16 [TestNG-tests-3] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 18:22:16 [TestNG-tests-3] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 18:22:17 [TestNG-tests-3] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 18:22:17 [TestNG-tests-3] INFO  LandingPage - Searching product with name: BeetT
+2026-02-07 18:22:17 [TestNG-tests-3] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 18:22:17 [TestNG-tests-3] INFO  LandingPage - Getting text of searched product!
+2026-02-07 18:22:17 [TestNG-tests-2] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-07 18:22:19 [TestNG-tests-1] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-07 18:22:27 [TestNG-tests-3] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-07 18:22:52 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\CucumberSeleniumProject\Rerun-FailedTests.xml
+
+2026-02-07 18:22:53 [TestNG-PoolService-1] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 18:22:53 [TestNG-PoolService-1] INFO  TestBase - Initializing browser: chrome
+2026-02-07 18:22:53 [TestNG-PoolService-1] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 18:22:54 [TestNG-PoolService-1] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-07 18:22:54 [TestNG-PoolService-1] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-07 18:23:01 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 18:23:01 [TestNG-PoolService-1] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 18:23:01 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 18:23:01 [TestNG-PoolService-1] INFO  LandingPage - Searching product with name: BeetT
+2026-02-07 18:23:01 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 18:23:01 [TestNG-PoolService-1] INFO  LandingPage - Getting text of searched product!
+2026-02-07 18:23:11 [TestNG-PoolService-1] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-07 18:23:12 [TestNG-PoolService-1] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 18:23:12 [TestNG-PoolService-1] INFO  TestBase - Initializing browser: chrome
+2026-02-07 18:23:12 [TestNG-PoolService-1] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 18:23:12 [TestNG-PoolService-1] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-07 18:23:12 [TestNG-PoolService-1] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-07 18:23:20 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 18:23:20 [TestNG-PoolService-1] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 18:23:20 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 18:23:20 [TestNG-PoolService-1] INFO  LandingPage - Searching product with name: BeetT
+2026-02-07 18:23:21 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 18:23:21 [TestNG-PoolService-1] INFO  LandingPage - Getting text of searched product!
+2026-02-07 18:23:43 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\CucumberSeleniumProject\Rerun-FailedTests.xml
+
+2026-02-07 18:23:44 [TestNG-PoolService-1] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 18:23:44 [TestNG-PoolService-1] INFO  TestBase - Initializing browser: chrome
+2026-02-07 18:23:44 [TestNG-PoolService-1] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 18:23:45 [TestNG-PoolService-1] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-07 18:23:45 [TestNG-PoolService-1] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-07 18:23:51 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 18:23:51 [TestNG-PoolService-1] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 18:23:51 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 18:23:51 [TestNG-PoolService-1] INFO  LandingPage - Searching product with name: Beet
+2026-02-07 18:23:51 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 18:23:51 [TestNG-PoolService-1] INFO  LandingPage - Getting text of searched product!
+2026-02-07 18:23:52 [TestNG-PoolService-1] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-07 18:23:52 [TestNG-PoolService-1] INFO  LandingPage - Opening topDeals page!
+2026-02-07 18:23:52 [TestNG-PoolService-1] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-07 18:23:52 [TestNG-PoolService-1] INFO  OffersPage - Entering product name into search field!
+2026-02-07 18:23:53 [TestNG-PoolService-1] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-07 18:23:53 [TestNG-PoolService-1] INFO  OffersPage - capturing productName text!
+2026-02-07 18:23:53 [TestNG-PoolService-1] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-07 18:23:53 [TestNG-PoolService-1] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-07 18:23:55 [TestNG-PoolService-1] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 18:23:55 [TestNG-PoolService-1] INFO  TestBase - Initializing browser: chrome
+2026-02-07 18:23:55 [TestNG-PoolService-1] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 18:23:55 [TestNG-PoolService-1] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-07 18:23:55 [TestNG-PoolService-1] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-07 18:23:59 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 18:23:59 [TestNG-PoolService-1] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 18:23:59 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 18:23:59 [TestNG-PoolService-1] INFO  LandingPage - Searching product with name: Beet
+2026-02-07 18:23:59 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 18:23:59 [TestNG-PoolService-1] INFO  LandingPage - Getting text of searched product!
+2026-02-07 18:24:00 [TestNG-PoolService-1] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-07 18:24:00 [TestNG-PoolService-1] INFO  LandingPage - Opening topDeals page!
+2026-02-07 18:24:00 [TestNG-PoolService-1] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-07 18:24:00 [TestNG-PoolService-1] INFO  OffersPage - Entering product name into search field!
+2026-02-07 18:24:02 [TestNG-PoolService-1] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-07 18:24:02 [TestNG-PoolService-1] INFO  OffersPage - capturing productName text!
+2026-02-07 18:24:02 [TestNG-PoolService-1] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-07 18:24:02 [TestNG-PoolService-1] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-07 18:24:02 [TestNG-PoolService-1] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 18:24:02 [TestNG-PoolService-1] INFO  TestBase - Initializing browser: chrome
+2026-02-07 18:24:02 [TestNG-PoolService-1] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 18:24:02 [TestNG-PoolService-1] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-07 18:24:02 [TestNG-PoolService-1] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-07 18:24:04 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 18:24:04 [TestNG-PoolService-1] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 18:24:07 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 18:24:07 [TestNG-PoolService-1] INFO  LandingPage - Searching product with name: Beet
+2026-02-07 18:24:07 [TestNG-PoolService-1] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 18:24:07 [TestNG-PoolService-1] INFO  LandingPage - Getting text of searched product!
+2026-02-07 18:24:08 [TestNG-PoolService-1] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-07 18:24:08 [TestNG-PoolService-1] INFO  LandingPage - Opening topDeals page!
+2026-02-07 18:24:08 [TestNG-PoolService-1] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-07 18:24:08 [TestNG-PoolService-1] INFO  OffersPage - Entering product name into search field!
+2026-02-07 18:24:10 [TestNG-PoolService-1] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-07 18:24:10 [TestNG-PoolService-1] INFO  OffersPage - capturing productName text!
+2026-02-07 18:24:10 [TestNG-PoolService-1] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-07 18:24:10 [TestNG-PoolService-1] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-07 18:25:56 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\CucumberSeleniumProject\Rerun-FailedTests.xml
+
+2026-02-07 18:25:59 [main] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 18:25:59 [main] INFO  TestBase - Initializing browser: chrome
+2026-02-07 18:25:59 [main] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 18:26:00 [main] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-07 18:26:00 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-07 18:26:03 [main] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 18:26:03 [main] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 18:26:07 [main] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 18:26:07 [main] INFO  LandingPage - Searching product with name: Beet
+2026-02-07 18:26:07 [main] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 18:26:07 [main] INFO  LandingPage - Getting text of searched product!
+2026-02-07 18:26:08 [main] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-07 18:26:08 [main] INFO  LandingPage - Opening topDeals page!
+2026-02-07 18:26:08 [main] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-07 18:26:08 [main] INFO  OffersPage - Entering product name into search field!
+2026-02-07 18:26:09 [main] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-07 18:26:09 [main] INFO  OffersPage - capturing productName text!
+2026-02-07 18:26:09 [main] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-07 18:26:10 [main] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-07 18:26:11 [main] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 18:26:11 [main] INFO  TestBase - Initializing browser: edge
+2026-02-07 18:26:11 [main] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 18:26:11 [main] INFO  WebDriverManager - Using msedgedriver 144.0.3719.115 (resolved driver for Edge 144)
+2026-02-07 18:26:11 [main] INFO  WebDriverManager - Exporting webdriver.edge.driver as C:\Users\Sumit\.cache\selenium\msedgedriver\win64\144.0.3719.115\msedgedriver.exe
+2026-02-07 18:26:15 [main] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 18:26:15 [main] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 18:26:15 [main] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 18:26:15 [main] INFO  LandingPage - Searching product with name: Beet
+2026-02-07 18:26:15 [main] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 18:26:15 [main] INFO  LandingPage - Getting text of searched product!
+2026-02-07 18:26:16 [main] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-07 18:26:16 [main] INFO  LandingPage - Opening topDeals page!
+2026-02-07 18:26:16 [main] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-07 18:26:16 [main] INFO  OffersPage - Entering product name into search field!
+2026-02-07 18:26:17 [main] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-07 18:26:17 [main] INFO  OffersPage - capturing productName text!
+2026-02-07 18:26:17 [main] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-07 18:26:17 [main] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-07 18:26:18 [main] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 18:26:18 [main] INFO  TestBase - Initializing browser: firefox
+2026-02-07 18:26:18 [main] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 18:26:18 [main] INFO  WebDriverManager - Using geckodriver 0.36.0 (resolved driver for Firefox 143)
+2026-02-07 18:26:18 [main] INFO  WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\Sumit\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+2026-02-07 18:26:27 [main] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 18:26:27 [main] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 18:26:27 [main] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 18:26:27 [main] INFO  LandingPage - Searching product with name: Beet
+2026-02-07 18:26:27 [main] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 18:26:27 [main] INFO  LandingPage - Getting text of searched product!
+2026-02-07 18:26:27 [main] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-07 18:26:27 [main] INFO  LandingPage - Opening topDeals page!
+2026-02-07 18:26:28 [main] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-07 18:26:28 [main] INFO  OffersPage - Entering product name into search field!
+2026-02-07 18:26:28 [main] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-07 18:26:28 [main] INFO  OffersPage - capturing productName text!
+2026-02-07 18:26:28 [main] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-07 18:26:28 [main] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
