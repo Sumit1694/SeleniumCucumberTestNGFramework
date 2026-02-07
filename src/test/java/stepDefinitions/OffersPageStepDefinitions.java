@@ -5,10 +5,10 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.testng.Assert;
 
+import base.TestContextSetup;
 import io.cucumber.java.en.Then;
-import pageObjects.LandingPage;
-import pageObjects.OffersPage;
-import utils.TestContextSetup;
+import pages.LandingPage;
+import pages.OffersPage;
 
 public class OffersPageStepDefinitions {
 

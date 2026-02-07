@@ -9,12 +9,12 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import base.DriverFactory;
+import base.TestContextSetup;
+import configs.BrowserContext;
 import io.cucumber.java.After;
 import io.cucumber.java.AfterStep;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
-import utils.BrowserContext;
-import utils.TestContextSetup;
 
 public class Hooks {
 

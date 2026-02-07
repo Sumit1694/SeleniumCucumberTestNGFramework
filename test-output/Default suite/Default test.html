@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Default test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>0/1/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>6/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Sat Feb 07 23:36:47 IST 2026</td>
+<td>Started on:</td><td>Sun Feb 08 01:38:51 IST 2026</td>
 </tr>
-<tr><td>Total time:</td><td>1 seconds (1965 ms)</td>
+<tr><td>Total time:</td><td>61 seconds (61249 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -76,66 +76,67 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='runners.TestNGTestRunner.runScenario()'><b>runScenario</b><br>Test class: runners.TestNGTestRunner<br>Test method: Runs Cucumber Scenarios</td>
-<td><div><pre>org.testng.internal.reflect.MethodMatcherException: 
-[public void io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)] has no parameters defined but was found to be using a data provider (either explicitly specified or inherited from class level annotation).
-Data provider mismatch
-Method: runScenario([io.cucumber.testng.PickleWrapper arg0, io.cucumber.testng.FeatureWrapper arg1])
-Arguments: [(java.lang.String) Tomato,(java.lang.Integer) 2]
-	at org.testng.internal.reflect.DataProviderMethodMatcher.getConformingArguments(DataProviderMethodMatcher.java:46)
-	at org.testng.internal.Parameters.injectParameters(Parameters.java:915)
-	at org.testng.internal.invokers.MethodRunner.runInParallel(MethodRunner.java:123)
-	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:994)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
-	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
-	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-	at org.testng.TestRunner.privateRun(TestRunner.java:744)
-	at org.testng.TestRunner.run(TestRunner.java:616)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
-	at org.testng.TestNG.runSuites(TestNG.java:1112)
-	at org.testng.TestNG.run(TestNG.java:1079)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
-</pre></div><a href='#' onClick='toggleBox("stack-trace1174641185", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1174641185'><pre>org.testng.internal.reflect.MethodMatcherException: 
-[public void io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)] has no parameters defined but was found to be using a data provider (either explicitly specified or inherited from class level annotation).
-Data provider mismatch
-Method: runScenario([io.cucumber.testng.PickleWrapper arg0, io.cucumber.testng.FeatureWrapper arg1])
-Arguments: [(java.lang.String) Tomato,(java.lang.Integer) 2]
-	at org.testng.internal.reflect.DataProviderMethodMatcher.getConformingArguments(DataProviderMethodMatcher.java:46)
-	at org.testng.internal.Parameters.injectParameters(Parameters.java:915)
-	at org.testng.internal.invokers.MethodRunner.runInParallel(MethodRunner.java:123)
-	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:994)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
-	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
-	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-	at org.testng.TestRunner.privateRun(TestRunner.java:744)
-	at org.testng.TestRunner.run(TestRunner.java:616)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
-	at org.testng.TestNG.runSuites(TestNG.java:1112)
-	at org.testng.TestNG.run(TestNG.java:1079)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+<td title='runners.TestNGTestRunner.runScenario()'><b>runScenario</b><br>Test class: runners.TestNGTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Search experience for product search in both home and offers page", "Search and place the order for products"</td>
+<td><div><pre>java.lang.AssertionError: expected [No data] but found [Beetroot]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1590)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+	at org.testng.Assert.assertEquals(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:656)
+	at org.testng.Assert.assertEquals(Assert.java:666)
+	at stepDefinitions.OffersPageStepDefinitions.validate_product_name_in_offers_page_matches_with_landing_page(OffersPageStepDefinitions.java:50)
+	at ?.validate product name in offers page matches with landing page(file:///C:/Users/Sumit/CucumberSeleniumProject/src/test/resources/features/searchProduct.feature:8)
+</pre></div><a href='#' onClick='toggleBox("stack-trace137805244", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace137805244'><pre>java.lang.AssertionError: expected [No data] but found [Beetroot]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1590)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+	at org.testng.Assert.assertEquals(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:656)
+	at org.testng.Assert.assertEquals(Assert.java:666)
+	at stepDefinitions.OffersPageStepDefinitions.validate_product_name_in_offers_page_matches_with_landing_page(OffersPageStepDefinitions.java:50)
+	at ?.validate product name in offers page matches with landing page(file:///C:/Users/Sumit/CucumberSeleniumProject/src/test/resources/features/searchProduct.feature:8)
 </pre></div></td>
-<td>0</td>
+<td>58</td>
+<td>runners.TestNGTestRunner@4c37b5b</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='runners.TestNGTestRunner.runScenario()'><b>runScenario</b><br>Test class: runners.TestNGTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Search for products from Excel file, add them to cart, and complete the order", "User search for product and add to cart"</td>
+<td></td>
+<td>57</td>
+<td>runners.TestNGTestRunner@4c37b5b</td></tr>
+<tr>
+<td title='runners.TestNGTestRunner.runScenario()'><b>runScenario</b><br>Test class: runners.TestNGTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Search experience for product search in both home and offers page", "Search and place the order for products"</td>
+<td></td>
+<td>59</td>
+<td>runners.TestNGTestRunner@4c37b5b</td></tr>
+<tr>
+<td title='runners.TestNGTestRunner.runScenario()'><b>runScenario</b><br>Test class: runners.TestNGTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Search for products from Excel file, add them to cart, and complete the order", "User search for product and add to cart"</td>
+<td></td>
+<td>58</td>
+<td>runners.TestNGTestRunner@4c37b5b</td></tr>
+<tr>
+<td title='runners.TestNGTestRunner.runScenario()'><b>runScenario</b><br>Test class: runners.TestNGTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Search for products from Excel file, add them to cart, and complete the order", "User search for product and add to cart"</td>
+<td></td>
+<td>57</td>
+<td>runners.TestNGTestRunner@4c37b5b</td></tr>
+<tr>
+<td title='runners.TestNGTestRunner.runScenario()'><b>runScenario</b><br>Test class: runners.TestNGTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Search for products from Excel file, add them to cart, and complete the order", "User search for product and add to cart"</td>
+<td></td>
+<td>58</td>
+<td>runners.TestNGTestRunner@4c37b5b</td></tr>
+<tr>
+<td title='runners.TestNGTestRunner.runScenario()'><b>runScenario</b><br>Test class: runners.TestNGTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Search experience for product search in both home and offers page", "Search and place the order for products"</td>
+<td></td>
+<td>59</td>
 <td>runners.TestNGTestRunner@4c37b5b</td></tr>
 </table><p>
 </body>

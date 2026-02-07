@@ -4,11 +4,11 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.testng.Assert;
 
+import base.TestContextSetup;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import pageObjects.LandingPage;
-import utils.TestContextSetup;
+import pages.LandingPage;
 
 public class LandingPageStepDefinitions {
 

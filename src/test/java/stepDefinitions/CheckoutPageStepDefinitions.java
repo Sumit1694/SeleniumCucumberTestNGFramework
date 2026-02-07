@@ -2,9 +2,9 @@ package stepDefinitions;
 
 import org.testng.Assert;
 
+import base.TestContextSetup;
 import io.cucumber.java.en.Then;
-import pageObjects.CheckoutPage;
-import utils.TestContextSetup;
+import pages.CheckoutPage;
 
 public class CheckoutPageStepDefinitions {
 

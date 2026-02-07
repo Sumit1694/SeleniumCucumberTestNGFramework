@@ -1,0 +1,780 @@
+[
+	{
+		"useNaturalConf": true,
+		"startTime": "Feb 8, 2026, 1:28:43 AM",
+		"endTime": "Feb 8, 2026, 1:29:02 AM",
+		"status": "PASS",
+		"level": 0,
+		"isLeaf": false,
+		"name": "User search for product and add to cart",
+		"description": "",
+		"bddType": "com.aventstack.extentreports.gherkin.model.Feature",
+		"infoMap": {
+		},
+		"children": [
+			{
+				"useNaturalConf": true,
+				"startTime": "Feb 8, 2026, 1:28:43 AM",
+				"endTime": "Feb 8, 2026, 1:29:02 AM",
+				"status": "PASS",
+				"level": 1,
+				"isLeaf": false,
+				"name": "Search for products from Excel file, add them to cart, and complete the order",
+				"description": "\u003cbr\u003e\u003cbr\u003e\u003ctable class\u003d\u0027markup-table table \u0027\u003e\u003ctr\u003e\u003ctd\u003eProductName\u003c/td\u003e\u003ctd\u003eQuantity\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eTomato\u003c/td\u003e\u003ctd\u003e2\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eBeans\u003c/td\u003e\u003ctd\u003e3\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCucumber\u003c/td\u003e\u003ctd\u003e1\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eBeetroot\u003c/td\u003e\u003ctd\u003e4\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\u003cbr\u003e\u003cbr\u003e\u003ctable class\u003d\u0027markup-table table \u0027\u003e\u003ctr\u003e\u003ctd\u003eProductName\u003c/td\u003e\u003ctd\u003eQuantity\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eTomato\u003c/td\u003e\u003ctd\u003e2\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eBeans\u003c/td\u003e\u003ctd\u003e3\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCucumber\u003c/td\u003e\u003ctd\u003e1\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eBeetroot\u003c/td\u003e\u003ctd\u003e4\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\u003cbr\u003e\u003cbr\u003e\u003ctable class\u003d\u0027markup-table table \u0027\u003e\u003ctr\u003e\u003ctd\u003eProductName\u003c/td\u003e\u003ctd\u003eQuantity\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eTomato\u003c/td\u003e\u003ctd\u003e2\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eBeans\u003c/td\u003e\u003ctd\u003e3\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCucumber\u003c/td\u003e\u003ctd\u003e1\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eBeetroot\u003c/td\u003e\u003ctd\u003e4\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\u003cbr\u003e\u003cbr\u003e\u003ctable class\u003d\u0027markup-table table \u0027\u003e\u003ctr\u003e\u003ctd\u003eProductName\u003c/td\u003e\u003ctd\u003eQuantity\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eTomato\u003c/td\u003e\u003ctd\u003e2\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eBeans\u003c/td\u003e\u003ctd\u003e3\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCucumber\u003c/td\u003e\u003ctd\u003e1\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eBeetroot\u003c/td\u003e\u003ctd\u003e4\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+				"bddType": "com.aventstack.extentreports.gherkin.model.ScenarioOutline",
+				"infoMap": {
+				},
+				"children": [
+					{
+						"useNaturalConf": true,
+						"startTime": "Feb 8, 2026, 1:28:43 AM",
+						"endTime": "Feb 8, 2026, 1:29:02 AM",
+						"status": "PASS",
+						"level": 2,
+						"isLeaf": false,
+						"name": "Search for products from Excel file, add them to cart, and complete the order",
+						"description": "",
+						"bddType": "com.aventstack.extentreports.gherkin.model.Scenario",
+						"infoMap": {
+						},
+						"children": [
+							{
+								"useNaturalConf": true,
+								"startTime": "Feb 8, 2026, 1:28:51 AM",
+								"endTime": "Feb 8, 2026, 1:28:57 AM",
+								"status": "PASS",
+								"level": 3,
+								"isLeaf": true,
+								"name": "Given User is on Greenkart landing page",
+								"description": "stepDefinitions.LandingPageStepDefinitions.user_is_on_greenkart_landing_page()",
+								"bddType": "com.aventstack.extentreports.gherkin.model.Given",
+								"infoMap": {
+								},
+								"children": [
+								],
+								"logs": [
+									{
+										"timestamp": "Feb 8, 2026, 1:28:57 AM",
+										"status": "PASS",
+										"details": "",
+										"seq": 0,
+										"infoMap": {
+										}
+									}
+								],
+								"media": [
+								],
+								"exceptions": [
+								],
+								"authorSet": [
+								],
+								"categorySet": [
+								],
+								"deviceSet": [
+								],
+								"generatedLog": [
+								]
+							},
+							{
+								"useNaturalConf": true,
+								"startTime": "Feb 8, 2026, 1:28:57 AM",
+								"endTime": "Feb 8, 2026, 1:28:58 AM",
+								"status": "PASS",
+								"level": 3,
+								"isLeaf": true,
+								"name": "When User searches for product \"Beetroot\"",
+								"description": "stepDefinitions.LandingPageStepDefinitions.user_searches_for_product(java.lang.String)",
+								"bddType": "com.aventstack.extentreports.gherkin.model.When",
+								"infoMap": {
+								},
+								"children": [
+								],
+								"logs": [
+									{
+										"timestamp": "Feb 8, 2026, 1:28:58 AM",
+										"status": "PASS",
+										"details": "",
+										"seq": 0,
+										"infoMap": {
+										}
+									}
+								],
+								"media": [
+								],
+								"exceptions": [
+								],
+								"authorSet": [
+								],
+								"categorySet": [
+								],
+								"deviceSet": [
+								],
+								"generatedLog": [
+								]
+							},
+							{
+								"useNaturalConf": true,
+								"startTime": "Feb 8, 2026, 1:28:58 AM",
+								"endTime": "Feb 8, 2026, 1:29:01 AM",
+								"status": "PASS",
+								"level": 3,
+								"isLeaf": true,
+								"name": "And User adds \"4\" of the product to cart",
+								"description": "stepDefinitions.LandingPageStepDefinitions.user_adds_of_the_product_to_cart(java.lang.String)",
+								"bddType": "com.aventstack.extentreports.gherkin.model.And",
+								"infoMap": {
+								},
+								"children": [
+								],
+								"logs": [
+									{
+										"timestamp": "Feb 8, 2026, 1:29:01 AM",
+										"status": "PASS",
+										"details": "",
+										"seq": 0,
+										"infoMap": {
+										}
+									}
+								],
+								"media": [
+								],
+								"exceptions": [
+								],
+								"authorSet": [
+								],
+								"categorySet": [
+								],
+								"deviceSet": [
+								],
+								"generatedLog": [
+								]
+							},
+							{
+								"useNaturalConf": true,
+								"startTime": "Feb 8, 2026, 1:29:01 AM",
+								"endTime": "Feb 8, 2026, 1:29:02 AM",
+								"status": "PASS",
+								"level": 3,
+								"isLeaf": true,
+								"name": "Then User verifies the product is added in the cart with correct \"4\"",
+								"description": "stepDefinitions.LandingPageStepDefinitions.user_verifies_the_product_is_added_in_the_cart_with_correct(java.lang.String)",
+								"bddType": "com.aventstack.extentreports.gherkin.model.Then",
+								"infoMap": {
+								},
+								"children": [
+								],
+								"logs": [
+									{
+										"timestamp": "Feb 8, 2026, 1:29:02 AM",
+										"status": "PASS",
+										"details": "",
+										"seq": 0,
+										"infoMap": {
+										}
+									}
+								],
+								"media": [
+								],
+								"exceptions": [
+								],
+								"authorSet": [
+								],
+								"categorySet": [
+								],
+								"deviceSet": [
+								],
+								"generatedLog": [
+								]
+							}
+						],
+						"logs": [
+						],
+						"media": [
+						],
+						"exceptions": [
+						],
+						"authorSet": [
+						],
+						"categorySet": [
+							{
+								"name": "@PlaceOrder"
+							}
+						],
+						"deviceSet": [
+						],
+						"generatedLog": [
+						]
+					},
+					{
+						"useNaturalConf": true,
+						"startTime": "Feb 8, 2026, 1:28:43 AM",
+						"endTime": "Feb 8, 2026, 1:29:02 AM",
+						"status": "PASS",
+						"level": 2,
+						"isLeaf": false,
+						"name": "Search for products from Excel file, add them to cart, and complete the order",
+						"description": "",
+						"bddType": "com.aventstack.extentreports.gherkin.model.Scenario",
+						"infoMap": {
+						},
+						"children": [
+							{
+								"useNaturalConf": true,
+								"startTime": "Feb 8, 2026, 1:28:50 AM",
+								"endTime": "Feb 8, 2026, 1:28:56 AM",
+								"status": "PASS",
+								"level": 3,
+								"isLeaf": true,
+								"name": "Given User is on Greenkart landing page",
+								"description": "stepDefinitions.LandingPageStepDefinitions.user_is_on_greenkart_landing_page()",
+								"bddType": "com.aventstack.extentreports.gherkin.model.Given",
+								"infoMap": {
+								},
+								"children": [
+								],
+								"logs": [
+									{
+										"timestamp": "Feb 8, 2026, 1:28:56 AM",
+										"status": "PASS",
+										"details": "",
+										"seq": 0,
+										"infoMap": {
+										}
+									}
+								],
+								"media": [
+								],
+								"exceptions": [
+								],
+								"authorSet": [
+								],
+								"categorySet": [
+								],
+								"deviceSet": [
+								],
+								"generatedLog": [
+								]
+							},
+							{
+								"useNaturalConf": true,
+								"startTime": "Feb 8, 2026, 1:28:56 AM",
+								"endTime": "Feb 8, 2026, 1:28:57 AM",
+								"status": "PASS",
+								"level": 3,
+								"isLeaf": true,
+								"name": "When User searches for product \"Beans\"",
+								"description": "stepDefinitions.LandingPageStepDefinitions.user_searches_for_product(java.lang.String)",
+								"bddType": "com.aventstack.extentreports.gherkin.model.When",
+								"infoMap": {
+								},
+								"children": [
+								],
+								"logs": [
+									{
+										"timestamp": "Feb 8, 2026, 1:28:57 AM",
+										"status": "PASS",
+										"details": "",
+										"seq": 0,
+										"infoMap": {
+										}
+									}
+								],
+								"media": [
+								],
+								"exceptions": [
+								],
+								"authorSet": [
+								],
+								"categorySet": [
+								],
+								"deviceSet": [
+								],
+								"generatedLog": [
+								]
+							},
+							{
+								"useNaturalConf": true,
+								"startTime": "Feb 8, 2026, 1:28:57 AM",
+								"endTime": "Feb 8, 2026, 1:29:01 AM",
+								"status": "PASS",
+								"level": 3,
+								"isLeaf": true,
+								"name": "And User adds \"3\" of the product to cart",
+								"description": "stepDefinitions.LandingPageStepDefinitions.user_adds_of_the_product_to_cart(java.lang.String)",
+								"bddType": "com.aventstack.extentreports.gherkin.model.And",
+								"infoMap": {
+								},
+								"children": [
+								],
+								"logs": [
+									{
+										"timestamp": "Feb 8, 2026, 1:29:01 AM",
+										"status": "PASS",
+										"details": "",
+										"seq": 0,
+										"infoMap": {
+										}
+									}
+								],
+								"media": [
+								],
+								"exceptions": [
+								],
+								"authorSet": [
+								],
+								"categorySet": [
+								],
+								"deviceSet": [
+								],
+								"generatedLog": [
+								]
+							},
+							{
+								"useNaturalConf": true,
+								"startTime": "Feb 8, 2026, 1:29:01 AM",
+								"endTime": "Feb 8, 2026, 1:29:01 AM",
+								"status": "PASS",
+								"level": 3,
+								"isLeaf": true,
+								"name": "Then User verifies the product is added in the cart with correct \"3\"",
+								"description": "stepDefinitions.LandingPageStepDefinitions.user_verifies_the_product_is_added_in_the_cart_with_correct(java.lang.String)",
+								"bddType": "com.aventstack.extentreports.gherkin.model.Then",
+								"infoMap": {
+								},
+								"children": [
+								],
+								"logs": [
+									{
+										"timestamp": "Feb 8, 2026, 1:29:01 AM",
+										"status": "PASS",
+										"details": "",
+										"seq": 0,
+										"infoMap": {
+										}
+									}
+								],
+								"media": [
+								],
+								"exceptions": [
+								],
+								"authorSet": [
+								],
+								"categorySet": [
+								],
+								"deviceSet": [
+								],
+								"generatedLog": [
+								]
+							}
+						],
+						"logs": [
+						],
+						"media": [
+						],
+						"exceptions": [
+						],
+						"authorSet": [
+						],
+						"categorySet": [
+							{
+								"name": "@PlaceOrder"
+							}
+						],
+						"deviceSet": [
+						],
+						"generatedLog": [
+						]
+					},
+					{
+						"useNaturalConf": true,
+						"startTime": "Feb 8, 2026, 1:28:43 AM",
+						"endTime": "Feb 8, 2026, 1:29:02 AM",
+						"status": "PASS",
+						"level": 2,
+						"isLeaf": false,
+						"name": "Search for products from Excel file, add them to cart, and complete the order",
+						"description": "",
+						"bddType": "com.aventstack.extentreports.gherkin.model.Scenario",
+						"infoMap": {
+						},
+						"children": [
+							{
+								"useNaturalConf": true,
+								"startTime": "Feb 8, 2026, 1:28:53 AM",
+								"endTime": "Feb 8, 2026, 1:28:54 AM",
+								"status": "PASS",
+								"level": 3,
+								"isLeaf": true,
+								"name": "Given User is on Greenkart landing page",
+								"description": "stepDefinitions.LandingPageStepDefinitions.user_is_on_greenkart_landing_page()",
+								"bddType": "com.aventstack.extentreports.gherkin.model.Given",
+								"infoMap": {
+								},
+								"children": [
+								],
+								"logs": [
+									{
+										"timestamp": "Feb 8, 2026, 1:28:54 AM",
+										"status": "PASS",
+										"details": "",
+										"seq": 0,
+										"infoMap": {
+										}
+									}
+								],
+								"media": [
+								],
+								"exceptions": [
+								],
+								"authorSet": [
+								],
+								"categorySet": [
+								],
+								"deviceSet": [
+								],
+								"generatedLog": [
+								]
+							},
+							{
+								"useNaturalConf": true,
+								"startTime": "Feb 8, 2026, 1:28:54 AM",
+								"endTime": "Feb 8, 2026, 1:28:56 AM",
+								"status": "PASS",
+								"level": 3,
+								"isLeaf": true,
+								"name": "When User searches for product \"Cucumber\"",
+								"description": "stepDefinitions.LandingPageStepDefinitions.user_searches_for_product(java.lang.String)",
+								"bddType": "com.aventstack.extentreports.gherkin.model.When",
+								"infoMap": {
+								},
+								"children": [
+								],
+								"logs": [
+									{
+										"timestamp": "Feb 8, 2026, 1:28:56 AM",
+										"status": "PASS",
+										"details": "",
+										"seq": 0,
+										"infoMap": {
+										}
+									}
+								],
+								"media": [
+								],
+								"exceptions": [
+								],
+								"authorSet": [
+								],
+								"categorySet": [
+								],
+								"deviceSet": [
+								],
+								"generatedLog": [
+								]
+							},
+							{
+								"useNaturalConf": true,
+								"startTime": "Feb 8, 2026, 1:28:56 AM",
+								"endTime": "Feb 8, 2026, 1:28:58 AM",
+								"status": "PASS",
+								"level": 3,
+								"isLeaf": true,
+								"name": "And User adds \"1\" of the product to cart",
+								"description": "stepDefinitions.LandingPageStepDefinitions.user_adds_of_the_product_to_cart(java.lang.String)",
+								"bddType": "com.aventstack.extentreports.gherkin.model.And",
+								"infoMap": {
+								},
+								"children": [
+								],
+								"logs": [
+									{
+										"timestamp": "Feb 8, 2026, 1:28:58 AM",
+										"status": "PASS",
+										"details": "",
+										"seq": 0,
+										"infoMap": {
+										}
+									}
+								],
+								"media": [
+								],
+								"exceptions": [
+								],
+								"authorSet": [
+								],
+								"categorySet": [
+								],
+								"deviceSet": [
+								],
+								"generatedLog": [
+								]
+							},
+							{
+								"useNaturalConf": true,
+								"startTime": "Feb 8, 2026, 1:28:58 AM",
+								"endTime": "Feb 8, 2026, 1:28:59 AM",
+								"status": "PASS",
+								"level": 3,
+								"isLeaf": true,
+								"name": "Then User verifies the product is added in the cart with correct \"1\"",
+								"description": "stepDefinitions.LandingPageStepDefinitions.user_verifies_the_product_is_added_in_the_cart_with_correct(java.lang.String)",
+								"bddType": "com.aventstack.extentreports.gherkin.model.Then",
+								"infoMap": {
+								},
+								"children": [
+								],
+								"logs": [
+									{
+										"timestamp": "Feb 8, 2026, 1:28:59 AM",
+										"status": "PASS",
+										"details": "",
+										"seq": 0,
+										"infoMap": {
+										}
+									}
+								],
+								"media": [
+								],
+								"exceptions": [
+								],
+								"authorSet": [
+								],
+								"categorySet": [
+								],
+								"deviceSet": [
+								],
+								"generatedLog": [
+								]
+							}
+						],
+						"logs": [
+						],
+						"media": [
+						],
+						"exceptions": [
+						],
+						"authorSet": [
+						],
+						"categorySet": [
+							{
+								"name": "@PlaceOrder"
+							}
+						],
+						"deviceSet": [
+						],
+						"generatedLog": [
+						]
+					},
+					{
+						"useNaturalConf": true,
+						"startTime": "Feb 8, 2026, 1:28:43 AM",
+						"endTime": "Feb 8, 2026, 1:29:02 AM",
+						"status": "PASS",
+						"level": 2,
+						"isLeaf": false,
+						"name": "Search for products from Excel file, add them to cart, and complete the order",
+						"description": "",
+						"bddType": "com.aventstack.extentreports.gherkin.model.Scenario",
+						"infoMap": {
+						},
+						"children": [
+							{
+								"useNaturalConf": true,
+								"startTime": "Feb 8, 2026, 1:28:50 AM",
+								"endTime": "Feb 8, 2026, 1:28:55 AM",
+								"status": "PASS",
+								"level": 3,
+								"isLeaf": true,
+								"name": "Given User is on Greenkart landing page",
+								"description": "stepDefinitions.LandingPageStepDefinitions.user_is_on_greenkart_landing_page()",
+								"bddType": "com.aventstack.extentreports.gherkin.model.Given",
+								"infoMap": {
+								},
+								"children": [
+								],
+								"logs": [
+									{
+										"timestamp": "Feb 8, 2026, 1:28:55 AM",
+										"status": "PASS",
+										"details": "",
+										"seq": 0,
+										"infoMap": {
+										}
+									}
+								],
+								"media": [
+								],
+								"exceptions": [
+								],
+								"authorSet": [
+								],
+								"categorySet": [
+								],
+								"deviceSet": [
+								],
+								"generatedLog": [
+								]
+							},
+							{
+								"useNaturalConf": true,
+								"startTime": "Feb 8, 2026, 1:28:55 AM",
+								"endTime": "Feb 8, 2026, 1:28:56 AM",
+								"status": "PASS",
+								"level": 3,
+								"isLeaf": true,
+								"name": "When User searches for product \"Tomato\"",
+								"description": "stepDefinitions.LandingPageStepDefinitions.user_searches_for_product(java.lang.String)",
+								"bddType": "com.aventstack.extentreports.gherkin.model.When",
+								"infoMap": {
+								},
+								"children": [
+								],
+								"logs": [
+									{
+										"timestamp": "Feb 8, 2026, 1:28:56 AM",
+										"status": "PASS",
+										"details": "",
+										"seq": 0,
+										"infoMap": {
+										}
+									}
+								],
+								"media": [
+								],
+								"exceptions": [
+								],
+								"authorSet": [
+								],
+								"categorySet": [
+								],
+								"deviceSet": [
+								],
+								"generatedLog": [
+								]
+							},
+							{
+								"useNaturalConf": true,
+								"startTime": "Feb 8, 2026, 1:28:56 AM",
+								"endTime": "Feb 8, 2026, 1:28:57 AM",
+								"status": "PASS",
+								"level": 3,
+								"isLeaf": true,
+								"name": "And User adds \"2\" of the product to cart",
+								"description": "stepDefinitions.LandingPageStepDefinitions.user_adds_of_the_product_to_cart(java.lang.String)",
+								"bddType": "com.aventstack.extentreports.gherkin.model.And",
+								"infoMap": {
+								},
+								"children": [
+								],
+								"logs": [
+									{
+										"timestamp": "Feb 8, 2026, 1:28:57 AM",
+										"status": "PASS",
+										"details": "",
+										"seq": 0,
+										"infoMap": {
+										}
+									}
+								],
+								"media": [
+								],
+								"exceptions": [
+								],
+								"authorSet": [
+								],
+								"categorySet": [
+								],
+								"deviceSet": [
+								],
+								"generatedLog": [
+								]
+							},
+							{
+								"useNaturalConf": true,
+								"startTime": "Feb 8, 2026, 1:28:57 AM",
+								"endTime": "Feb 8, 2026, 1:28:59 AM",
+								"status": "PASS",
+								"level": 3,
+								"isLeaf": true,
+								"name": "Then User verifies the product is added in the cart with correct \"2\"",
+								"description": "stepDefinitions.LandingPageStepDefinitions.user_verifies_the_product_is_added_in_the_cart_with_correct(java.lang.String)",
+								"bddType": "com.aventstack.extentreports.gherkin.model.Then",
+								"infoMap": {
+								},
+								"children": [
+								],
+								"logs": [
+									{
+										"timestamp": "Feb 8, 2026, 1:28:59 AM",
+										"status": "PASS",
+										"details": "",
+										"seq": 0,
+										"infoMap": {
+										}
+									}
+								],
+								"media": [
+								],
+								"exceptions": [
+								],
+								"authorSet": [
+								],
+								"categorySet": [
+								],
+								"deviceSet": [
+								],
+								"generatedLog": [
+								]
+							}
+						],
+						"logs": [
+						],
+						"media": [
+						],
+						"exceptions": [
+						],
+						"authorSet": [
+						],
+						"categorySet": [
+							{
+								"name": "@PlaceOrder"
+							}
+						],
+						"deviceSet": [
+						],
+						"generatedLog": [
+						]
+					}
+				],
+				"logs": [
+				],
+				"media": [
+				],
+				"exceptions": [
+				],
+				"authorSet": [
+				],
+				"categorySet": [
+				],
+				"deviceSet": [
+				],
+				"generatedLog": [
+				]
+			}
+		],
+		"logs": [
+		],
+		"media": [
+		],
+		"exceptions": [
+		],
+		"authorSet": [
+		],
+		"categorySet": [
+		],
+		"deviceSet": [
+		],
+		"generatedLog": [
+		]
+	}
+]
