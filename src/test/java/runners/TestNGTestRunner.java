@@ -10,25 +10,23 @@ import io.cucumber.testng.CucumberOptions;
 import utils.BrowserContext;
 
 @CucumberOptions(features="src/test/java/features",glue="stepDefinitions",monochrome=true,
-dryRun=false,tags="@OffersPage",
-plugin= {"html:target/cucumber.html","json:target/cucumber.json",
-		"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
-"rerun:target/failed_scenarios.txt"})
+dryRun=false,tags="@PlaceOrder", plugin= {"html:target/cucumber.html","json:target/cucumber.json", "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
+		"rerun:target/failed_scenarios.txt"})
 public class TestNGTestRunner extends AbstractTestNGCucumberTests {
 
-	 @BeforeTest(alwaysRun = true)
-	    @Parameters("browser")
-	    public void setBrowser(@Optional String browser) {
+	/*@BeforeTest(alwaysRun = true)
+	@Parameters("browser")
+	public void setBrowser(@Optional String browser) {
 
-	        System.out.println(">>> Setting browser for thread: " + browser);
+		System.out.println(">>> Setting browser for thread: " + browser);
 
-	        if (browser != null) {
-	            BrowserContext.setBrowser(browser);
-	        }
-	    }
+		if (browser != null) {
+			BrowserContext.setBrowser(browser);
+		}
+	}*/
 
 	@Override
-	@DataProvider(parallel=false)
+	@DataProvider(parallel=true)
 	public Object[][] scenarios()
 	{
 		return super.scenarios();

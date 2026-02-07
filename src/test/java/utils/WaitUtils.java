@@ -1,6 +1,7 @@
 package utils;
 
 import java.time.Duration;
+import java.util.List;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -39,5 +40,24 @@ public class WaitUtils {
 
 		wait.until(ExpectedConditions.textToBePresentInElementLocated(locator, expectedText));
 		return DriverFactory.getDriver().findElement(locator).getText().trim();
+	}
+
+	public List<WebElement> waitForElements(By locator, WaitStrategy strategy) {
+
+	    switch (strategy) {
+
+	        case VISIBLE:
+	            return wait.until(
+	                ExpectedConditions.visibilityOfAllElementsLocatedBy(locator)
+	            );
+
+	        case CLICKABLE:
+	            return wait.until(
+	                ExpectedConditions.presenceOfAllElementsLocatedBy(locator)
+	            );
+
+	        default:
+	            throw new IllegalArgumentException("Invalid wait strategy");
+	    }
 	}
 }

@@ -5,6 +5,7 @@ import org.slf4j.LoggerFactory;
 import org.testng.Assert;
 
 import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pageObjects.LandingPage;
 import utils.TestContextSetup;
@@ -44,5 +45,21 @@ public class LandingPageStepDefinitions {
 		landingPage.incrementQuantity(Integer.parseInt(quantity));
 		log.info("user adding product to cart!");
 		landingPage.addToCart();
+	}
+
+	@When("User searches for product {string}")
+	public void user_searches_for_product(String productName) {
+         landingPage.searchItem(productName);
+	}
+	@When("User adds {string} of the product to cart")
+	public void user_adds_of_the_product_to_cart(String qty) {
+         landingPage.incrementQuantity(Integer.parseInt(qty));
+         landingPage.addToCart();
+	}
+	@Then("User verifies the product is added in the cart with correct {string}")
+	public void user_verifies_the_product_is_added_in_the_cart_with_correct(String ExpQty) {
+		 landingPage.clickCartBag();
+         Assert.assertTrue(Integer.parseInt(landingPage.getQuantityAddedInCart())==Integer.parseInt(ExpQty));
+         System.out.println(landingPage.getQuantityAddedInCart()+ " " + ExpQty);
 	}
 }
