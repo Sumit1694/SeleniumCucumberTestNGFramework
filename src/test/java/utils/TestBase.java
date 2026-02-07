@@ -7,6 +7,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import base.DriverFactory;
+import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class TestBase
 {
@@ -23,10 +24,19 @@ public class TestBase
 			String browser = ConfigReader.getBrowser();
 			switch(browser.toLowerCase())
 			{
-			case "chrome" : driver = new ChromeDriver(); break;
-			case "firefox" : driver = new FirefoxDriver(); break;
-			case "edge" : driver = new EdgeDriver(); break;
-			default: throw new RuntimeException("Unsupported browser: " + browser);
+			    case "chrome":
+			        WebDriverManager.chromedriver().setup();
+			        driver = new ChromeDriver(); break;
+
+			    case "firefox":
+			        WebDriverManager.firefoxdriver().setup();
+			        driver = new FirefoxDriver(); break;
+
+			    case "edge":
+			        WebDriverManager.edgedriver().setup();
+			        driver = new EdgeDriver(); break;
+
+			    default: throw new RuntimeException("Unsupported browser: " + browser);
 			}
 			driver.manage().window().maximize();
 			driver.get(ConfigReader.getUrl());
