@@ -34,7 +34,7 @@ public class LandingPageStepDefinitions {
 		log.info("User searching product on landing page");
 		landingPage.searchItem(shortName);
 		log.info("User capturting text of searched product!");
-		testContextSetup.landingPageProductName = landingPage.getProductName("Tomato").split("-")[0].trim();
+		testContextSetup.landingPageProductName = landingPage.getProductName(shortName).split("-")[0].trim();
         System.out.println("Product name is extracted: " + testContextSetup.landingPageProductName);
 	}
 	@When("Added {string} items of the selected product to cart")

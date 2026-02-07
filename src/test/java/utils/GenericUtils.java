@@ -1,13 +1,11 @@
 package utils;
 
-import java.util.Iterator;
-import java.util.Set;
-
 import org.openqa.selenium.WebDriver;
 
 public class GenericUtils {
 
 	public WebDriver driver;
+	private String ParentWindow;
 
 	public GenericUtils(WebDriver driver)
 	{
@@ -16,12 +14,19 @@ public class GenericUtils {
 
 	public void SwitchToChildWindow()
 	{
-		Set<String> s1 = driver.getWindowHandles();
-        Iterator<String> i1 = s1.iterator();
-        @SuppressWarnings("unused")
-		String parentWindow = i1.next();
-        String childWindow = i1.next();
-        driver.switchTo().window(childWindow);
+		ParentWindow = driver.getWindowHandle();
+		for(String window:driver.getWindowHandles())
+		{
+			if(!window.equals(ParentWindow)) {
+				driver.switchTo().window(window);
+				break;
+			}
+		}
+	}
+
+	public void switchToParentWindow()
+	{
+		driver.switchTo().window(ParentWindow);
 	}
 
 }

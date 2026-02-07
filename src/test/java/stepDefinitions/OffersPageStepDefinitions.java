@@ -17,11 +17,13 @@ public class OffersPageStepDefinitions {
 	String landingPageProductName;
 	TestContextSetup testContextSetup;
 	OffersPage offersPage;
+	LandingPage landingPage;
 
 	public OffersPageStepDefinitions(TestContextSetup testContextSetup)
 	{
 		this.testContextSetup=testContextSetup;
 		this.offersPage = testContextSetup.pageObjectManager.getOffersPage();
+		this.landingPage = testContextSetup.pageObjectManager.getLandingPage();
 	}
 
 	private static final Logger log = LoggerFactory.getLogger(OffersPageStepDefinitions.class);
@@ -37,7 +39,6 @@ public class OffersPageStepDefinitions {
 	}
 	public void switchToOffersPage()
 	{
-		LandingPage landingPage = testContextSetup.pageObjectManager.getLandingPage();
 		landingPage.selectTopDealsPage();
 		testContextSetup.genericUtils.SwitchToChildWindow();
 	}
@@ -47,5 +48,6 @@ public class OffersPageStepDefinitions {
 	{
 		log.info("user verifying product name is matching on landing and offersPage!");
 		Assert.assertEquals(testContextSetup.landingPageProductName, offersPageProductName);
+		testContextSetup.genericUtils.switchToParentWindow();
 	}
 }

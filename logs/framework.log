@@ -1338,3 +1338,550 @@
 2026-02-07 16:13:34 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6bfdaa7a: 13 ms
 2026-02-07 16:13:34 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2c1a8529: 14 ms
 2026-02-07 16:13:34 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6d7865d6: 0 ms
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:35:26 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\AppData\Local\Temp\testng-eclipse--1128291877\testng-customsuite.xml
+
+2026-02-07 16:35:26 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-02-07 16:35:28 [main] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 16:35:28 [main] INFO  TestBase - Initializing browser: chrome
+2026-02-07 16:35:28 [main] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 16:35:28 [main] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-07 16:35:28 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-07 16:35:35 [main] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 16:35:35 [main] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 16:35:35 [main] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 16:35:35 [main] INFO  LandingPage - Searching product with name: Tom
+2026-02-07 16:35:35 [main] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 16:35:35 [main] INFO  LandingPage - Getting text of searched product!
+2026-02-07 16:35:36 [main] INFO  LandingPageStepDefinitions - user is incrementing quantity of product to add in the cart!
+2026-02-07 16:35:36 [main] INFO  LandingPage - incrementing quantity of searched product: 3
+2026-02-07 16:35:36 [main] INFO  LandingPageStepDefinitions - user adding product to cart!
+2026-02-07 16:35:36 [main] INFO  LandingPage - Adding product to cart!
+2026-02-07 16:35:37 [main] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: UNDEFINED =====
+2026-02-07 16:35:37 [main] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 16:35:37 [main] INFO  TestBase - Initializing browser: chrome
+2026-02-07 16:35:37 [main] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 16:35:37 [main] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-07 16:35:37 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-07 16:35:42 [main] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 16:35:42 [main] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 16:35:42 [main] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 16:35:42 [main] INFO  LandingPage - Searching product with name: Tom
+2026-02-07 16:35:42 [main] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 16:35:42 [main] INFO  LandingPage - Getting text of searched product!
+2026-02-07 16:35:42 [main] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-07 16:35:42 [main] INFO  LandingPage - Opening topDeals page!
+2026-02-07 16:35:43 [main] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-07 16:35:43 [main] INFO  OffersPage - Entering product name into search field!
+2026-02-07 16:35:44 [main] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-07 16:35:44 [main] INFO  OffersPage - capturing productName text!
+2026-02-07 16:35:44 [main] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-07 16:35:44 [main] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: PASSED =====
+2026-02-07 16:35:44 [main] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 16:35:44 [main] INFO  TestBase - Initializing browser: chrome
+2026-02-07 16:35:44 [main] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 16:35:44 [main] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-07 16:35:44 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-07 16:35:49 [main] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 16:35:49 [main] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 16:35:49 [main] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 16:35:49 [main] INFO  LandingPage - Searching product with name: Beet
+2026-02-07 16:35:49 [main] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 16:35:49 [main] INFO  LandingPage - Getting text of searched product!
+2026-02-07 16:36:00 [main] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-07 16:36:01 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@79b7c350: 74 ms
+2026-02-07 16:36:01 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7440265c: 16 ms
+2026-02-07 16:36:01 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@401ec794: 10 ms
+2026-02-07 16:36:01 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@26101efc: 10 ms
+2026-02-07 16:36:01 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@51b51641: 7 ms
+2026-02-07 16:36:01 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@362a6aa5: 0 ms
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:39:19 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\AppData\Local\Temp\testng-eclipse--1907302775\testng-customsuite.xml
+
+2026-02-07 16:39:19 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2026-02-07 16:39:20 [main] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 16:39:20 [main] INFO  TestBase - Initializing browser: chrome
+2026-02-07 16:39:20 [main] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 16:39:21 [main] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-07 16:39:21 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-07 16:39:26 [main] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 16:39:26 [main] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 16:39:26 [main] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 16:39:26 [main] INFO  LandingPage - Searching product with name: Tom
+2026-02-07 16:39:27 [main] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 16:39:27 [main] INFO  LandingPage - Getting text of searched product!
+2026-02-07 16:39:27 [main] INFO  LandingPageStepDefinitions - user is incrementing quantity of product to add in the cart!
+2026-02-07 16:39:27 [main] INFO  LandingPage - incrementing quantity of searched product: 3
+2026-02-07 16:39:28 [main] INFO  LandingPageStepDefinitions - user adding product to cart!
+2026-02-07 16:39:28 [main] INFO  LandingPage - Adding product to cart!
+2026-02-07 16:39:28 [main] INFO  CheckoutPage - Clicking on cartBag!
+2026-02-07 16:39:28 [main] INFO  CheckoutPage - Clicking on checkoutButton!
+2026-02-07 16:39:28 [main] INFO  CheckoutPage - Verifying PromoBtn is displayed!
+2026-02-07 16:39:29 [main] INFO  CheckoutPage - Verifying placeOrder is displayed!
+2026-02-07 16:39:29 [main] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: PASSED =====
+2026-02-07 16:39:29 [main] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 16:39:29 [main] INFO  TestBase - Initializing browser: chrome
+2026-02-07 16:39:29 [main] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 16:39:29 [main] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-07 16:39:29 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-07 16:39:34 [main] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 16:39:34 [main] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 16:39:34 [main] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 16:39:34 [main] INFO  LandingPage - Searching product with name: Tom
+2026-02-07 16:39:34 [main] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 16:39:34 [main] INFO  LandingPage - Getting text of searched product!
+2026-02-07 16:39:35 [main] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-07 16:39:35 [main] INFO  LandingPage - Opening topDeals page!
+2026-02-07 16:39:35 [main] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-07 16:39:35 [main] INFO  OffersPage - Entering product name into search field!
+2026-02-07 16:39:36 [main] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-07 16:39:36 [main] INFO  OffersPage - capturing productName text!
+2026-02-07 16:39:36 [main] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-07 16:39:36 [main] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: PASSED =====
+2026-02-07 16:39:36 [main] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 16:39:36 [main] INFO  TestBase - Initializing browser: chrome
+2026-02-07 16:39:36 [main] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 16:39:37 [main] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-07 16:39:37 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-07 16:39:41 [main] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 16:39:41 [main] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 16:39:41 [main] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 16:39:41 [main] INFO  LandingPage - Searching product with name: Beet
+2026-02-07 16:39:42 [main] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 16:39:42 [main] INFO  LandingPage - Getting text of searched product!
+2026-02-07 16:39:52 [main] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-07 16:39:53 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@61ad30f6: 88 ms
+2026-02-07 16:39:53 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@67dc6b48: 26 ms
+2026-02-07 16:39:53 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1488a861: 10 ms
+2026-02-07 16:39:53 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3a70575: 12 ms
+2026-02-07 16:39:53 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@44de8e00: 10 ms
+2026-02-07 16:39:53 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3cbfdf5c: 0 ms
+2026-02-07 16:40:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:40:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-02-07 16:40:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:40:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:40:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:40:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:40:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:40:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:40:35 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-02-07 16:40:36 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+2026-02-07 16:40:36 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:40:36 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:40:36 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:40:36 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:40:36 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:40:36 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:40:36 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:40:36 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:40:36 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:40:36 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:40:36 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:40:36 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:40:36 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:40:36 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:40:36 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-02-07 16:40:36 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:40:36 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:40:36 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:40:36 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:40:36 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:40:36 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\AppData\Local\Temp\testng-eclipse-456517846\testng-customsuite.xml
+
+2026-02-07 16:40:36 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-02-07 16:40:37 [main] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 16:40:37 [main] INFO  TestBase - Initializing browser: chrome
+2026-02-07 16:40:37 [main] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 16:40:38 [main] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-07 16:40:38 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-07 16:40:44 [main] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 16:40:44 [main] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 16:40:44 [main] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 16:40:44 [main] INFO  LandingPage - Searching product with name: Tom
+2026-02-07 16:40:44 [main] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 16:40:44 [main] INFO  LandingPage - Getting text of searched product!
+2026-02-07 16:40:45 [main] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-07 16:40:45 [main] INFO  LandingPage - Opening topDeals page!
+2026-02-07 16:40:45 [main] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-07 16:40:45 [main] INFO  OffersPage - Entering product name into search field!
+2026-02-07 16:40:46 [main] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-07 16:40:46 [main] INFO  OffersPage - capturing productName text!
+2026-02-07 16:40:46 [main] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-07 16:40:46 [main] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: PASSED =====
+2026-02-07 16:40:46 [main] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 16:40:46 [main] INFO  TestBase - Initializing browser: chrome
+2026-02-07 16:40:46 [main] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 16:40:46 [main] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-07 16:40:46 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-07 16:40:51 [main] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 16:40:51 [main] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 16:40:51 [main] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 16:40:51 [main] INFO  LandingPage - Searching product with name: Beet
+2026-02-07 16:40:51 [main] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 16:40:51 [main] INFO  LandingPage - Getting text of searched product!
+2026-02-07 16:41:01 [main] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-07 16:41:02 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@24aedcc5: 83 ms
+2026-02-07 16:41:02 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@131ba005: 26 ms
+2026-02-07 16:41:02 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6dd20ec9: 15 ms
+2026-02-07 16:41:02 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@698f4aa: 12 ms
+2026-02-07 16:41:02 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@68a426c3: 6 ms
+2026-02-07 16:41:02 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@182cc69e: 1 ms
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:44:34 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\AppData\Local\Temp\testng-eclipse--707410518\testng-customsuite.xml
+
+2026-02-07 16:44:34 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-02-07 16:44:35 [main] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 16:44:35 [main] INFO  TestBase - Initializing browser: chrome
+2026-02-07 16:44:35 [main] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 16:44:36 [main] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-07 16:44:36 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-07 16:44:41 [main] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 16:44:41 [main] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 16:44:41 [main] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 16:44:41 [main] INFO  LandingPage - Searching product with name: Tom
+2026-02-07 16:44:42 [main] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 16:44:42 [main] INFO  LandingPage - Getting text of searched product!
+2026-02-07 16:44:42 [main] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-07 16:44:42 [main] INFO  LandingPage - Opening topDeals page!
+2026-02-07 16:44:42 [main] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-07 16:44:42 [main] INFO  OffersPage - Entering product name into search field!
+2026-02-07 16:44:44 [main] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-07 16:44:44 [main] INFO  OffersPage - capturing productName text!
+2026-02-07 16:44:44 [main] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-07 16:44:44 [main] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: PASSED =====
+2026-02-07 16:44:44 [main] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 16:44:44 [main] INFO  TestBase - Initializing browser: chrome
+2026-02-07 16:44:44 [main] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 16:44:44 [main] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-07 16:44:44 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-07 16:44:49 [main] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 16:44:49 [main] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 16:44:49 [main] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 16:44:49 [main] INFO  LandingPage - Searching product with name: Beet
+2026-02-07 16:44:49 [main] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 16:44:49 [main] INFO  LandingPage - Getting text of searched product!
+2026-02-07 16:44:59 [main] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-07 16:45:01 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@24aedcc5: 96 ms
+2026-02-07 16:45:01 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@131ba005: 27 ms
+2026-02-07 16:45:01 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6dd20ec9: 16 ms
+2026-02-07 16:45:01 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@698f4aa: 12 ms
+2026-02-07 16:45:01 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@68a426c3: 8 ms
+2026-02-07 16:45:01 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@182cc69e: 0 ms
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:51:34 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\AppData\Local\Temp\testng-eclipse--2052499774\testng-customsuite.xml
+
+2026-02-07 16:51:34 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-02-07 16:51:35 [main] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 16:51:35 [main] INFO  TestBase - Initializing browser: chrome
+2026-02-07 16:51:35 [main] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 16:51:36 [main] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-07 16:51:36 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-07 16:51:42 [main] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 16:51:42 [main] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 16:51:42 [main] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 16:51:42 [main] INFO  LandingPage - Searching product with name: Tom
+2026-02-07 16:51:42 [main] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 16:51:42 [main] INFO  LandingPage - Getting text of searched product!
+2026-02-07 16:51:43 [main] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-07 16:51:43 [main] INFO  LandingPage - Opening topDeals page!
+2026-02-07 16:51:43 [main] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-07 16:51:43 [main] INFO  OffersPage - Entering product name into search field!
+2026-02-07 16:51:44 [main] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-07 16:51:44 [main] INFO  OffersPage - capturing productName text!
+2026-02-07 16:51:44 [main] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-07 16:51:44 [main] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: PASSED =====
+2026-02-07 16:51:45 [main] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 16:51:45 [main] INFO  TestBase - Initializing browser: chrome
+2026-02-07 16:51:45 [main] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 16:51:45 [main] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-07 16:51:45 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-07 16:51:49 [main] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 16:51:49 [main] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 16:51:49 [main] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 16:51:49 [main] INFO  LandingPage - Searching product with name: Beet
+2026-02-07 16:51:50 [main] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 16:51:50 [main] INFO  LandingPage - Getting text of searched product!
+2026-02-07 16:52:00 [main] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-07 16:52:03 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@74cd798f: 62 ms
+2026-02-07 16:52:03 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2b35c7aa: 17 ms
+2026-02-07 16:52:03 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3dda8a2e: 14 ms
+2026-02-07 16:52:03 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@c6a692e: 6 ms
+2026-02-07 16:52:03 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6cd2cb2: 5 ms
+2026-02-07 16:52:03 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3a2bb026: 0 ms
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:54:02 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\AppData\Local\Temp\testng-eclipse--2122140970\testng-customsuite.xml
+
+2026-02-07 16:54:03 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2026-02-07 16:54:04 [main] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 16:54:04 [main] INFO  TestBase - Initializing browser: chrome
+2026-02-07 16:54:04 [main] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 16:54:05 [main] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-07 16:54:05 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-07 16:54:11 [main] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 16:54:11 [main] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 16:54:11 [main] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 16:54:11 [main] INFO  LandingPage - Searching product with name: Tom
+2026-02-07 16:54:11 [main] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 16:54:11 [main] INFO  LandingPage - Getting text of searched product!
+2026-02-07 16:54:12 [main] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-07 16:54:12 [main] INFO  LandingPage - Opening topDeals page!
+2026-02-07 16:54:12 [main] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-07 16:54:12 [main] INFO  OffersPage - Entering product name into search field!
+2026-02-07 16:54:14 [main] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-07 16:54:14 [main] INFO  OffersPage - capturing productName text!
+2026-02-07 16:54:14 [main] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-07 16:54:14 [main] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: PASSED =====
+2026-02-07 16:54:14 [main] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 16:54:14 [main] INFO  TestBase - Initializing browser: chrome
+2026-02-07 16:54:14 [main] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 16:54:14 [main] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-07 16:54:14 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-07 16:54:19 [main] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 16:54:19 [main] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 16:54:19 [main] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 16:54:19 [main] INFO  LandingPage - Searching product with name: Beet
+2026-02-07 16:54:19 [main] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 16:54:19 [main] INFO  LandingPage - Getting text of searched product!
+2026-02-07 16:54:19 [main] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-07 16:54:19 [main] INFO  LandingPage - Opening topDeals page!
+2026-02-07 16:54:20 [main] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-07 16:54:20 [main] INFO  OffersPage - Entering product name into search field!
+2026-02-07 16:54:21 [main] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-07 16:54:21 [main] INFO  OffersPage - capturing productName text!
+2026-02-07 16:54:21 [main] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-07 16:54:21 [main] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-07 16:54:22 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@563172d3: 103 ms
+2026-02-07 16:54:22 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7686f701: 22 ms
+2026-02-07 16:54:22 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1aac0a47: 15 ms
+2026-02-07 16:54:22 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3f06ebe0: 6 ms
+2026-02-07 16:54:22 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@121ddca4: 10 ms
+2026-02-07 16:54:22 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@297bd171: 0 ms
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-07 16:54:37 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\AppData\Local\Temp\testng-eclipse--1198312888\testng-customsuite.xml
+
+2026-02-07 16:54:37 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2026-02-07 16:54:39 [main] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 16:54:39 [main] INFO  TestBase - Initializing browser: chrome
+2026-02-07 16:54:39 [main] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 16:54:39 [main] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-07 16:54:39 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-07 16:54:44 [main] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 16:54:44 [main] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 16:54:44 [main] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 16:54:44 [main] INFO  LandingPage - Searching product with name: Tom
+2026-02-07 16:54:45 [main] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 16:54:45 [main] INFO  LandingPage - Getting text of searched product!
+2026-02-07 16:54:45 [main] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-07 16:54:45 [main] INFO  LandingPage - Opening topDeals page!
+2026-02-07 16:54:45 [main] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-07 16:54:45 [main] INFO  OffersPage - Entering product name into search field!
+2026-02-07 16:54:47 [main] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-07 16:54:47 [main] INFO  OffersPage - capturing productName text!
+2026-02-07 16:54:47 [main] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-07 16:54:47 [main] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: PASSED =====
+2026-02-07 16:54:47 [main] INFO  Hooks - ===== STARTING SCENARIO: Search experience for product search in both home and offers page =====
+2026-02-07 16:54:47 [main] INFO  TestBase - Initializing browser: chrome
+2026-02-07 16:54:47 [main] INFO  TestBase - Navigating to URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2026-02-07 16:54:47 [main] INFO  WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+2026-02-07 16:54:47 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sumit\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+2026-02-07 16:54:51 [main] INFO  LandingPageStepDefinitions - User trying to get the title of landing page!
+2026-02-07 16:54:51 [main] INFO  LandingPage - Getting title of LandingPage!
+2026-02-07 16:54:51 [main] INFO  LandingPageStepDefinitions - User searching product on landing page
+2026-02-07 16:54:51 [main] INFO  LandingPage - Searching product with name: Beet
+2026-02-07 16:54:52 [main] INFO  LandingPageStepDefinitions - User capturting text of searched product!
+2026-02-07 16:54:52 [main] INFO  LandingPage - Getting text of searched product!
+2026-02-07 16:54:52 [main] INFO  OffersPageStepDefinitions - user switching to offers page
+2026-02-07 16:54:52 [main] INFO  LandingPage - Opening topDeals page!
+2026-02-07 16:54:52 [main] INFO  OffersPageStepDefinitions - user searching item offerspage
+2026-02-07 16:54:52 [main] INFO  OffersPage - Entering product name into search field!
+2026-02-07 16:54:54 [main] INFO  OffersPageStepDefinitions - user capturing product name!
+2026-02-07 16:54:54 [main] INFO  OffersPage - capturing productName text!
+2026-02-07 16:54:54 [main] INFO  OffersPageStepDefinitions - user verifying product name is matching on landing and offersPage!
+2026-02-07 16:54:54 [main] INFO  Hooks - ===== ENDING SCENARIO: Search experience for product search in both home and offers page | STATUS: FAILED =====
+2026-02-07 16:54:55 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@563172d3: 91 ms
+2026-02-07 16:54:55 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7686f701: 27 ms
+2026-02-07 16:54:55 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1aac0a47: 14 ms
+2026-02-07 16:54:55 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3f06ebe0: 11 ms
+2026-02-07 16:54:55 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@121ddca4: 7 ms
+2026-02-07 16:54:55 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@297bd171: 0 ms

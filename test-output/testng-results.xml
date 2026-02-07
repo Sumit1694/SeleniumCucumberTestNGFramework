@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="2" failed="1" skipped="0">
+<testng-results ignored="0" total="2" passed="1" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-02-07T16:12:50 IST" name="Default suite" finished-at="2026-02-07T16:13:34 IST" duration-ms="43726">
+  <suite started-at="2026-02-07T16:54:37 IST" name="Default suite" finished-at="2026-02-07T16:54:55 IST" duration-ms="17407">
     <groups>
       <group name="cucumber">
-        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runners.TestNGTestRunner@4c37b5b]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runners.TestNGTestRunner@a8c1f44]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test started-at="2026-02-07T16:12:50 IST" name="Default test" finished-at="2026-02-07T16:13:34 IST" duration-ms="43726">
+    <test started-at="2026-02-07T16:54:37 IST" name="Default test" finished-at="2026-02-07T16:54:55 IST" duration-ms="17407">
       <class name="runners.TestNGTestRunner">
-        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runners.TestNGTestRunner@4c37b5b]" started-at="2026-02-07T16:12:50 IST" name="setUpClass" finished-at="2026-02-07T16:12:52 IST" duration-ms="1512" status="PASS">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runners.TestNGTestRunner@a8c1f44]" started-at="2026-02-07T16:54:37 IST" name="setUpClass" finished-at="2026-02-07T16:54:38 IST" duration-ms="1061" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@12be4f83]]>
+                <![CDATA[org.testng.TestRunner@b1d19ff]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runners.TestNGTestRunner@4c37b5b]" started-at="2026-02-07T16:12:52 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-02-07T16:13:06 IST" duration-ms="13801" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runners.TestNGTestRunner@a8c1f44]" started-at="2026-02-07T16:54:38 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-02-07T16:54:47 IST" duration-ms="8570" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -37,7 +37,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runners.TestNGTestRunner@4c37b5b]" started-at="2026-02-07T16:13:06 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-02-07T16:13:15 IST" duration-ms="9353" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runners.TestNGTestRunner@a8c1f44]" started-at="2026-02-07T16:54:47 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-02-07T16:54:54 IST" duration-ms="7219" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -50,53 +50,27 @@
               </value>
             </param>
           </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runners.TestNGTestRunner@4c37b5b]" started-at="2026-02-07T16:13:15 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-02-07T16:13:33 IST" duration-ms="18109" status="FAIL">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA["Search experience for product search in both home and offers page"]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA["Search and place the order for products"]]>
-              </value>
-            </param>
-          </params>
-          <exception class="org.openqa.selenium.TimeoutException">
+          <exception class="java.lang.AssertionError">
             <message>
-              <![CDATA[Expected condition failed: waiting for element found by By.cssSelector: h4.product-name to contain text "Tomato". Current text: "Beetroot - 1 Kg".
-(tried for 10 seconds with 500 milliseconds interval)
-Build info: version: '4.40.0', revision: 'b3333f1'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.97, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\Sumit\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64439}, goog:processID: 53432, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64439/devtoo..., se:cdpVersion: 144.0.7559.97, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: d2f67d9cb06913300c0ab0d17f90218d]]>
+              <![CDATA[expected [No data] but found [Beetroot]]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element found by By.cssSelector: h4.product-name to contain text "Tomato". Current text: "Beetroot - 1 Kg".
-(tried for 10 seconds with 500 milliseconds interval)
-Build info: version: '4.40.0', revision: 'b3333f1'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.97, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\Sumit\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64439}, goog:processID: 53432, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64439/devtoo..., se:cdpVersion: 144.0.7559.97, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: d2f67d9cb06913300c0ab0d17f90218d
-at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
-at utils.WaitUtils.waitForText(WaitUtils.java:40)
-at pageObjects.LandingPage.getProductName(LandingPage.java:52)
-at stepDefinitions.LandingPageStepDefinitions.user_searched_with_shortname_and_extracted_actual_name_of_product(LandingPageStepDefinitions.java:37)
-at ✽.User searched with shortname Beet and extracted actual name of product(file:///C:/Users/Sumit/CucumberSeleniumProject/src/test/java/features/searchProduct.feature:6)
+              <![CDATA[java.lang.AssertionError: expected [No data] but found [Beetroot]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+at org.testng.Assert.assertEquals(Assert.java:132)
+at org.testng.Assert.assertEquals(Assert.java:656)
+at org.testng.Assert.assertEquals(Assert.java:666)
+at stepDefinitions.OffersPageStepDefinitions.validate_product_name_in_offers_page_matches_with_landing_page(OffersPageStepDefinitions.java:50)
+at ✽.validate product name in offers page matches with landing page(file:///C:/Users/Sumit/CucumberSeleniumProject/src/test/java/features/searchProduct.feature:8)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runners.TestNGTestRunner@4c37b5b]" started-at="2026-02-07T16:13:33 IST" name="tearDownClass" finished-at="2026-02-07T16:13:34 IST" duration-ms="799" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runners.TestNGTestRunner@a8c1f44]" started-at="2026-02-07T16:54:54 IST" name="tearDownClass" finished-at="2026-02-07T16:54:55 IST" duration-ms="499" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->

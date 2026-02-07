@@ -46,4 +46,9 @@ public final class ConfigReader {
 		return Integer.parseInt(properties.getProperty("timeout"));
 	}
 
+	public static String getProperty(String key,String defaultValue)
+	{
+		return properties.getProperty(key, defaultValue);
+	}
+
 }
